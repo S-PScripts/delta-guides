@@ -1,0 +1,6 @@
+# Is Delta down?
+Short answer: No, delta is NOT down.
+
+Long answer: IPA (iOS) and APK (Android) usually aren't. Whenever you get prompted to update, the Delta Devs/mlemix tend to update it within a minute to 30 minutes.
+
+As for Direct Install (iOS), it's unofficial; the Delta Devs/mlemix don't make it. Therefore, it may be down for days or even a week.
