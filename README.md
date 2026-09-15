@@ -13,3 +13,5 @@ He also likes having fun removing and re-adding roles from us, and being a negat
 nyxolz has never done that, and despite her flaws, is still much better than him. However, she still thinks that he is a good asset. Yes, he does moderate and staff sometimes but that's just one side of him.
 
 Do not repost these guides in the #solutions channel. And before you say, "oh it isnt' serious", I'm literally in the top 10 for this server. alan is ABOVE me. He's the DISCORD MOD bum, not me.
+
+I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. As otherwise, we get warns for rule 1 (being even a tiny bit disrespectful/impolite when most the people talking are idiots).
