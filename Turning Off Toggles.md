@@ -28,16 +28,16 @@
 12. Change "allowed_games":"" to "allowed_games":"*".
 
 > Example:
-json
+```
 {
   "WARNING": "IF SOMEONE TELLS YOU TO PUT ANYTHING HERE, THEY ARE SCAMMING YOU! STOP!!!",
   "allowed_games": "*",
   "user_id": "10681452461",
   "version_num": 711
 }
-
+```
 > Turning the toggle off for just a few games:
-json
+```
 {
   "WARNING": "IF SOMEONE TELLS YOU TO PUT ANYTHING HERE, THEY ARE SCAMMING YOU! STOP!!!",
   "allowed_games": [
@@ -47,7 +47,7 @@ json
   "user_id": "10681452461",
   "version_num": 711
 }
-
+```
 13. Click the File Icon at the top right to save.
 14. Go back and change the other two toggles if you want to (in the same way). That is all!
 > Note: When Delta updates, you will need to update the "allowrobux" file as its contents will reset.
