@@ -48,4 +48,10 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 Here is another Support stating that my solutions helped them. This applies to many others:
 ![Discord Screenshot 4](Screenshot%202026-09-16%2017.13.08.png)
 
+A Support who tried to repost my guide without credit and also clearly didn't double-check it, as it contained a link to https://ksign-installer.vercel.app,
+which has a link to my website:
+
+![Discord Screenshot 5](Screenshot%202026-09-16%2021.40.51.png)
+
+Oh, I was also one of the only Supports for Android. The majority are iOS-only.
 <!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk website lmao -->
