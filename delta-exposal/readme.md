@@ -44,3 +44,5 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 
 Here is another Support stating that my solutions helped them. This applies to many others:
 ![Discord Screenshot 4](Screenshot%202026-09-16%2017.13.08.png)
+
+<!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk website lmao -->
