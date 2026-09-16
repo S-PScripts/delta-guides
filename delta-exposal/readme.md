@@ -9,7 +9,7 @@ Advertisement from nyxolz:
 
 He also likes having fun removing and re-adding roles from us, and being a negative guy in general.
 
-nyxolz has never done that, and despite her flaws, is still much better than him. Unfortunately, she's kept him on the team.
+nyxolz has never done that, and despite her flaws, is still much better than him. Unfortunately, she's kept him on the team (maybe not on her own accord).
 
 **Do not repost my guides in the #solutions channel. Do that, and I will get them taken down.** And before you say, "oh it isn't serious", I'm literally in the top 10 for this server. Alan is ABOVE me. He's the DISCORD MOD, he's the bum, not me.
 
@@ -35,3 +35,9 @@ I also got called a chud by Alan for making so many solutions, and although yes,
 I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. Otherwise, we get warnings for rule 1 (being even a tiny bit disrespectful/impolite when most of the people talking are idiots).
 
 Rule 1 is enforced because Phxyzn has authority over nyxolz. Phxyzn is barely active nowadays, and the last time he was online, he started to larp as an e-girl. Very professional. Who's the actual NSFWer?
+
+Here are three screenshots (one Support, one former Support, one Trial Support) that share my opinion. You may be able to guess who they are, but I will not be the one telling you that!
+
+![Discord Screenshot 1](Screenshot_20260916_163152_Discord.jpg)
+![Discord Screenshot 2](Screenshot_20260916_163135_Discord.jpg)
+![Discord Screenshot 3](Screenshot_20260916_163201_Discord.jpg)
