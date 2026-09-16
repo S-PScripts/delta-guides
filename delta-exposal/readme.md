@@ -53,5 +53,4 @@ which has a link to my website:
 
 ![Discord Screenshot 5](Screenshot%202026-09-16%2021.40.51.png)
 
-Oh, I was also one of the only Supports for Android. The majority are iOS-only.
 <!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk website lmao -->
