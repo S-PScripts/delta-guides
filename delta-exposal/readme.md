@@ -41,3 +41,6 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 ![Discord Screenshot 1](Screenshot_20260916_163152_Discord.jpg)
 ![Discord Screenshot 2](Screenshot_20260916_163135_Discord.jpg)
 ![Discord Screenshot 3](Screenshot_20260916_163201_Discord.jpg)
+
+Here is another Support stating that my solutions helped them. This applies to many others:
+![Discord Screenshot 4](Screenshot%202026-09-16%2017.13.08.png)
