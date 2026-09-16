@@ -3,7 +3,7 @@ These are the guides/solutions I  created for the Delta Community Discord server
 
 I have converted most of my guides to .md files for easy reading, but you can also find a Discrub archive of them.
 
-The Support Manager and Moderator, Alan, should not have the roles he has. I have deleted all my solutions from the server, as all actions, such as him demoting me, have consequences.
+The Support Manager and Moderator, Alan, should not have the roles he has. I have deleted all my solutions from the server, as all actions, such as him demoting me for NSFW, have consequences.
 
 If you want to see exactly what I did to get demoted, press this link. Then, you will witness Alan's ignorance and idiocy:
 https://gofile.io/d/iBEMXeSa
@@ -37,4 +37,4 @@ I became Support to fix the rotten #solutions channel (since it was missing a to
 
 I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. Otherwise, we get warnings for rule 1 (being even a tiny bit disrespectful/impolite when most of the people talking are idiots).
 
-Rule 1 is enforced due to Phxyzn having authority over nyxolz. Phxyzn is barely active nowadays and the last time he was online, he started to larp as an egirl. Very professional.
+Rule 1 is enforced because Phxyzn has authority over nyxolz. Phxyzn is barely active nowadays, and the last time he was online, he started to larp as an e-girl. Very professional. Who's the actual NSFWer?
