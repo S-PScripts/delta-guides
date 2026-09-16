@@ -1,5 +1,7 @@
 # Delta Executor - SHIT Support 
-The Support Manager and Moderator, Alan, should not have the roles he has. I have deleted all my solutions from the server, as all actions, such as him demoting me for NSFW, have consequences.
+I was a Support for the Delta Community Discord server from early July 2026 to late September 2026. However, I had been helping with Delta since January 2026. I've helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). The manager (whoise) even asked me for help once.
+
+I have a certain opinion, and I am not alone in this. The Support Manager and Moderator, Alan, should not have the roles he has. I have deleted all my solutions from the server, as all actions, such as him demoting me for NSFW, have consequences.
 
 If you want to see exactly what I did to get demoted, press this link. Then, you will witness Alan's ignorance and idiocy:
 https://gofile.io/d/iBEMXeSa
@@ -13,7 +15,7 @@ nyxolz has never done that, and despite her flaws, is still much better than him
 
 **Do not repost my guides in the #solutions channel. Do that, and I will get them taken down.** And before you say, "oh it isn't serious", I'm literally in the top 10 for this server. Alan is ABOVE me. He's the DISCORD MOD, he's the bum, not me.
 
-And let's mention Ylem. He's the guy who updated the support application to have ZERO questions about Delta troubleshooting. Some of the Trials chosen are rather stupid, and it probably would not happen if the support application was actually good (the old one was much better).
+I would also like to mention Ylem. He's the guy who updated the support application to have ZERO questions about Delta troubleshooting. Some of the Trials chosen are rather stupid, and it probably would not happen if the support application was actually good (the old one was much better). 
 
 Let me show you the current Support List and their contributions:
 - carlitos (the only good, active one)
@@ -29,8 +31,9 @@ Let me show you the current Support List and their contributions:
   
 There are a couple from nyxolz and alan too, as well as some Supports that are now demoted. However, that's really all.
 
-I became Support to fix the rotten #solutions channel (since it was missing a ton of information, and some had terrible wording/were unclear). But I got demoted over a 5-word message. Wow. 
-I also got called a chud by Alan for making so many solutions, and although yes, it looked ridiculous, most, if not all, of my solutions had a purpose.
+I became Support to fix the rotten #solutions channel (since it was missing a ton of information, and some had terrible wording/were unclear). Many Supports used my solutions, as they weren't shit. Probably helped them to not get demoted, even. But I won't say it like that's the gospel, as I'm not trying to be a narcissist.
+
+But I got demoted over a 5-word message. Insane. I also got called a chud by Alan for making so many solutions, and although yes, it looked ridiculous, most, if not all, of my solutions had a purpose.
 
 I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. Otherwise, we get warnings for rule 1 (being even a tiny bit disrespectful/impolite when most of the people talking are idiots).
 
