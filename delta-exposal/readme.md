@@ -1,4 +1,4 @@
-# Delta Executor - SHIT Support 
+# Delta Executor - Internal Hell 
 I was a Support for the Delta Community Discord server from early July 2026 to late September 2026. However, I had been helping with Delta since January 2026. I've helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). The manager (whoise) even asked me for help once.
 
 I have a certain opinion, and I am not alone in this. The Support Manager and Moderator, Alan, should not have the roles he has. I have deleted all my solutions from the server, as all actions, such as him demoting me for NSFW, have consequences.
@@ -53,4 +53,25 @@ which has a link to my website:
 
 ![Discord Screenshot 5](Screenshot%202026-09-16%2021.40.51.png)
 
-<!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk website lmao -->
+Did you know that promotions are stupid? Here's why:
+- you can't get promoted from support to moderator as there's a maximum of three
+- **no matter how good you are**, **no matter how active you are**
+- you need to keep **slaving** away
+- just remember that this is a server with nearly a million accounts (probably botted though)
+- for most servers, there isn't a limit for promotions
+
+The current mods, apart from alan, did not have any staff role for months. They just randomly got promoted straight to Moderator as there were spots.
+I personally think that mods who don't care about Delta should have the role.
+
+Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towards women:
+- koda got promoted from trial support to support in 2 days
+- it's supposed to be 2 weeks (even though I was really active, I went through the same)
+- layla kept getting her support role back just by asking
+- atedrvgs was able to stay as support after several chances
+
+Nyxolz should have a promotion, but that won't happen. The maximum is Senior Moderator unless you're friends with mlemix. Or Ylem, as Phxyzn is Staff Manager.
+
+For more information, join [this server](https://discord.gg/PFqKfZSGAe).
+
+<!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk/ipa website lmao -->
+<!-- delta-testing.net is link -->
