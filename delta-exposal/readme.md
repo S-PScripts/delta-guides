@@ -61,7 +61,7 @@ Did you know that promotions are stupid? Here's why:
 - for most servers, there isn't a limit for promotions
 
 The current mods, apart from alan, did not have any staff role for months. They just randomly got promoted straight to Moderator as there were spots.
-I personally think that mods who don't care about Delta should have the role.
+I personally think that mods who don't care about Delta should not have the role.
 
 Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towards women:
 - koda got promoted from trial support to support in 2 days
