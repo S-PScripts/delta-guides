@@ -17,10 +17,10 @@ nyxolz has never done that, and despite her flaws, is still much better than him
 
 I would also like to mention Ylem. He's the guy who updated the support application to have ZERO questions about Delta troubleshooting. Some of the Trials chosen are rather stupid, and it probably would not happen if the support application was actually good (the old one was much better). 
 
-Let me show you the current Support List and their contributions:
+Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps less people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are't happening, or the selections are just shit.
+
+Let me show you the current (non-Trial) Support List and their contributions:
 - carlitos (the only good, active one)
-  0 contributions to #solutions
-- koda (job; not that active)
   0 contributions to #solutions
 - tea (job; not that active)
   0 contributions to #solutions
