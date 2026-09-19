@@ -48,7 +48,7 @@ To install SideStore, you will need:
 > If prompted to continue, type 'y'.
 11. Once the packages are updated, run `sudo apt-get install usbmuxd fuse curl`
 12. Run `uname -m` in order to decide which iloader version to download.
-> If x86_64 is outputted, run `curl -fsSLO https://github.com/nab138/iloader/releases/latest/download/iloader-linux-amd64.AppImage`
+> If x86_64 is outputted, run `curl -fsSLO https://github.com/nab138/iloader/releases/latest/download/iloader-linux-amd64.AppImage` <br>
 > If aarch64 is outputted, run `curl -fsSLO https://github.com/nab138/iloader/releases/latest/download/iloader-linux-aarch64.AppImage`
 13. Run the following command to ensure usbmuxd has started: `sudo systemctl restart usbmuxd`.
 14. In Settings, find Linux developer environment and press it. After that, press Manage USB devices.
@@ -62,25 +62,25 @@ Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub``
 ./iloader-linux-amd64.AppImage`
 `chmod +x ./iloader-linux-aarch64.AppImage
 ./iloader-linux-aarch64.AppImage`
-> If nothing happens, run `./iloader-linux-amd64.AppImage` or `./iloader-linux-aarch64.AppImage`
-> (iloader:1703): dbind-WARNING : 17:45:41.504: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service filescCouldn't open libGLESv2.so.2: libGLESv2.so.2: cannot open shared object file: No such file or directory. Aborted
-> To fix this error, run `sudo apt update && sudo apt install -y libgles2`
-> --Run `sudo ln -sf /usr/lib/x86_64-linux-gnu/libGLESv2.so.2 /usr/lib/libGLESv2.so.2`-- (NOT NEEDED)
+> If nothing happens, run `./iloader-linux-amd64.AppImage` or `./iloader-linux-aarch64.AppImage` <br>
+> (iloader:1703): dbind-WARNING : 17:45:41.504: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service filescCouldn't open libGLESv2.so.2: libGLESv2.so.2: cannot open shared object file: No such file or directory. Aborted <br>
+> To fix this error, run `sudo apt update && sudo apt install -y libgles2` <br>
+> --Run `sudo ln -sf /usr/lib/x86_64-linux-gnu/libGLESv2.so.2 /usr/lib/libGLESv2.so.2`-- (NOT NEEDED) <br>
 > Now, run the command in step 17 again.
 18. If iloader isn't showing your iDevice, you can try manually running usbmuxd by running the following commands in the Terminal in another tab: `sudo systemctl stop usbmuxd` and `sudo usbmuxd -v -f`. You may be prompted on your iDevice.
 
 ## Installation
 1. Connect your iDevice to your computer using a USB cable.
 2. Go to Applications on your computer and open iloader. Click Open when prompted. You may need to trust your computer and enter your password on your iDevice.
-3. Enter your Apple ID Email and password; it is case-sensitive! It does not need to be the account associated with the iDevice. Afterwards, click Login and wait until it gives a 2FA popup.
+3. Enter your Apple Account Email and password; it is case-sensitive! It does not need to be the account associated with the iDevice. Afterwards, click Login and wait until it gives a 2FA popup.
 4. On your iDevice, click Allow. Afterwards, enter the code it displays into the box in iloader and click Submit.
 5. Select your iDevice in iloader (if you're on chromeOS and you can't, good luck fixing it).
 6. Click "SideStore (Stable)" and wait until it finishes installing.
-> The lazy way of installing Delta (only lasts for 7 days): Instead of choosing "SideStore (Stable)" in iloader, choose "Import IPA" instead. Select the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg). Afterwards, wait for it to Sign and Install. 
-7. On your iDevice, go to Settings > General > VPN & Device Management. Click the Developer App that shows with your Apple ID email.
+> iLoader lets you install IPAs as you would with Sideloadly or Impactor: Instead of choosing "SideStore (Stable)" in iloader, you can "Import IPA" instead. Select the Delta IPA from [https://deltaexploits.gg](https://deltaexploits.gg). Afterwards, wait for it to Sign and Install. Note that this install lasts only 7 days; you will need to use iloader again afterwards.
+7. On your iDevice, go to Settings > General > VPN & Device Management. Click the Developer App that shows with your Apple Account email.
 8. Trust it and click Allow. For later iOS/iPadOS, it will show as Allow & Restart. Enter your password if you are prompted.
 9. Go to your home screen and open SideStore. Click Allow for the local network popup.
-10. Click Settings and click "Sign in with Apple ID". Enter your Apple ID email and password; the same one you used for iloader! Afterwards, click Sign in and wait.
+10. Click Settings and click "Sign in with Apple Account". Enter your Apple Account email and password; the same one you used for iloader! Afterwards, click Sign in and wait.
 11. Click "Got It", then go to My Apps.
 12. Click the "7 DAYS" counter next to SideStore. If you receive a prompt asking to revoke or create a new signing certificate, tap 'Yes' or 'Refresh Now'.
 > 7 represents the number of days until an app's expiry. It will update dynamically to show the number of days left. Tapping it refreshes the app.
