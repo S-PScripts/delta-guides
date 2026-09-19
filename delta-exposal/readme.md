@@ -6,6 +6,10 @@ I have a certain opinion, and I am not alone in this. The Support Manager and Mo
 If you want to see exactly what I did to get demoted, press this link. Then, you will witness Alan's ignorance and idiocy:
 https://gofile.io/d/iBEMXeSa
 
+Alan tried to deflect by showing how nyxolz agreed with him, but that's because she's busy with Prism and doesn't check Delta that much. Alan KNOWS that.
+
+<img width="434" height="640" alt="image" src="https://github.com/user-attachments/assets/f894ecdd-1502-4c47-86c3-28e961c58312" />
+
 Advertisement from nyxolz:
 [the best discord not prism i promise](https://discord.gg/PFqKfZSGAe)
 
@@ -15,9 +19,10 @@ nyxolz has never done that, and despite her flaws, is still much better than him
 
 **Do not repost my guides in the #solutions channel. Do that, and I will get them taken down.** And before you say, "oh it isn't serious", I'm literally in the top 10 for this server. Alan is ABOVE me. He's the DISCORD MOD, he's the bum, not me.
 
-I would also like to mention Ylem. He's the guy who updated the support application to have ZERO questions about Delta troubleshooting. Some of the Trials chosen are rather stupid, and it probably would not happen if the support application was actually good (the old one was much better). 
+I would also like to mention Ylem. He's the guy who updated the support application to have ZERO questions about Delta troubleshooting. Some of the Trials chosen are rather stupid, and it probably would not happen if the support application was actually good (the old one was much better). What a genius:
+<img width="640" height="613" alt="image" src="https://github.com/user-attachments/assets/09815ab3-76bc-4661-957a-26374d55ec53" />
 
-Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps less people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are't happening, or the selections are just shit.
+Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps less people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections aren't happening, or the selections are just shit.
 
 Let me show you the current (non-Trial) Support List and their contributions:
 - carlitos (the only good, active one)
@@ -45,13 +50,13 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 ![Discord Screenshot 2](Screenshot_20260916_163135_Discord.jpg)
 ![Discord Screenshot 3](Screenshot_20260916_163201_Discord.jpg)
 
+One of the other senior moderators (not nyxolz) is also a little suspicious of alan too, but didn't make it that clear.
+
 Here is another Support stating that my solutions helped them. This applies to many others:
-![Discord Screenshot 4](Screenshot%202026-09-16%2017.13.08.png)
+<img width="563" height="191" alt="image" src="https://github.com/user-attachments/assets/3e9db09b-7120-4587-800b-0e966ffdf1dd" />
 
-A Support who tried to repost my guide without credit and also clearly didn't double-check it, as it contained a link to https://ksign-installer.vercel.app,
-which has a link to my website:
-
-![Discord Screenshot 5](Screenshot%202026-09-16%2021.40.51.png)
+A Support who tried to repost my guide without credit and also clearly didn't double-check it, as it contained a link to https://ksign-installer.vercel.app, which has a link to my website:
+<img width="578" height="70" alt="image" src="https://github.com/user-attachments/assets/b4eb2865-9e87-4302-9217-5164130ea860" />
 
 Did you know that promotions are stupid? Here's why:
 - you can't get promoted from support to moderator as there's a maximum of three
@@ -70,6 +75,9 @@ Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towar
 - atedrvgs was able to stay as support after several chances
 
 Nyxolz should have a promotion, but that won't happen. The maximum is Senior Moderator unless you're friends with mlemix. Or Ylem, as Phxyzn is Staff Manager.
+
+Now, it turns out that alan is quitting anyway. I guess he's just powertripping in the time he has left. Except this guy is taking his sweet old time doing so, and worse... he's been considered to become a SENIOR moderator???
+<img width="762" height="60" alt="image" src="https://github.com/user-attachments/assets/8223dd4f-4472-4726-a3f4-798cca702e90" />
 
 For more information, join [this server](https://discord.gg/PFqKfZSGAe).
 
