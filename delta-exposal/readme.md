@@ -26,15 +26,17 @@ Over time, I have also noticed that the Staff Team has been getting smaller, or 
 
 Let me show you the current (non-Trial) Support List and their contributions:
 - carlitos (the only good, active one)
-  0 contributions to #solutions
-- tea (job; not that active)
-  0 contributions to #solutions
+  6 contributions to #solutions (he started making them after I got demoted; in DMs he said he took inspiration from me)
+- Parrot (knows good stuff about sideloading)
+  1 contribution to #solutions
+- Dark
+  1 contribution (his solution is one **I** came up with)
 - track33 (active once; now really inactive)
   3 contributions to #solutions
-- King (random guy)
-  0 contributions to #solutions
+- Every other support has made no contributions
   
-There are a couple from nyxolz and alan too, as well as some Supports that are now demoted. However, that's really all.
+There are a couple from nyxolz and alan too, as well as some Supports that are now demoted. However, that's really all. I made about 30 in
+total whilst I was a support.
 
 I became Support to fix the rotten #solutions channel (since it was missing a ton of information, and some had terrible wording/were unclear). Many Supports used my solutions, as they weren't shit. Probably helped them to not get demoted, even. But I won't say it like that's the gospel, as I'm not trying to be a narcissist.
 
