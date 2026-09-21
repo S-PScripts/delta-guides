@@ -263,14 +263,15 @@
     <section>
       <h2 class="section-title">Latest Downloads</h2>
       <div class="downloads">
-        <article class="card download-card">
-          <div>
-            <div class="label">iOS</div>
-            <div class="name">IPA (OUTDATED)</div>
-            <div class="version">Delta 2.737.1581</div>
-          </div>
-          <a class="button" href="https://cdn.glopdelivery.com/file/Delta-2.737.1581.ipa">Download IPA</a>
-        </article>
+<article class="card download-card">
+  <div>
+    <div class="label">iOS</div>
+    <div id="ios-title" class="name">IPA (OUTDATED)</div>
+    <div id="ios-version" class="version">Delta 2.737.1581</div>
+  </div>
+  <a id="ios-link" class="button" href="https://cdn.glopdelivery.com/file/Delta-2.737.1581.ipa">Download IPA</a>
+</article>
+
 
         <article class="card download-card">
           <div>
@@ -334,6 +335,37 @@
   function closePopup() {
     document.getElementById("guidePopup").style.display = "none";
   }
+
+  // New script targeting your newly added IDs
+  async function syncLiveIpaAssets() {
+    try {
+      const response = await fetch('https://morning-term-a2ec.ts2021me.workers.dev/');
+      if (!response.ok) return; // Safely fall back to default text if your worker drops
+      
+      const data = await response.json();
+
+      if (data.url) {
+        // 1. Instantly swap out the stale fallback URL link on your button element
+        document.getElementById('ios-link').href = data.url;
+
+        if (data.version) {
+          // Remove the "v" prefix from the string object array context cleanly
+          const versionNumber = data.version.replace('v', '');
+          document.getElementById('ios-version').textContent = `Delta ${versionNumber}`;
+
+          // If the worker unearths a brand new version string, switch out the stale tag label
+          if (versionNumber !== "2.737.1581") {
+            document.getElementById('ios-title').textContent = "Latest IPA";
+          }
+        }
+      }
+    } catch (err) {
+      console.log("Asset sync bypassed:", err.message);
+    }
+  }
+
+  // Trigger link synchronisation the moment the document fully parses
+  window.addEventListener('DOMContentLoaded', syncLiveIpaAssets);
 </script>
 
 </body>
