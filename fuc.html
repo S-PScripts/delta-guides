@@ -54,7 +54,7 @@
         try {
             statusText.textContent = "Connecting to private Cloudflare Worker...";
             
-            const response = await fetch('https://workers.dev');
+            const response = await fetch('https://morning-term-a2ec.ts2021me.workers.dev');
             if (!response.ok) throw new Error(`Worker issue: ${response.status}`);
             
             const data = await response.json();
