@@ -46,43 +46,42 @@
     <a id="download-btn" href="#" class="btn disabled">Loading freshest IPA link...</a>
     <p id="status">Connecting to private Cloudflare Worker...</p>
 
-    <script>
-        async function getIpaLink() {
-            const downloadBtn = document.getElementById('download-btn');
-            const statusText = document.getElementById('status');
+<script>
+    async function getIpaLink() {
+        const downloadBtn = document.getElementById('download-btn');
+        const statusText = document.getElementById('status');
 
-            try {
-                // Call your private Cloudflare worker directly
-                const response = await fetch('https://morning-term-a2ec.ts2021me.workers.dev/');
+        try {
+            statusText.textContent = "Connecting to private Cloudflare Worker...";
+            
+            // 1. Fetch JSON data structure from your worker pipeline
+            const response = await fetch('https://morning-term-a2ec.ts2021me.workers.dev/');
+            if (!response.ok) throw new Error(`Worker connection dropped: ${response.status}`);
+            
+            // FIX: Parse explicitly as JSON payload instead of raw text strings
+            const data = await response.json();
+            console.log("Parsed Worker Payload Data:", data);
+
+            if (data.url) {
+                downloadBtn.href = data.url;
+                downloadBtn.textContent = "Download Delta IPA";
+                downloadBtn.classList.remove('disabled');
                 
-                if (!response.ok) throw new Error('Worker returned an error status.');
-                
-                const data = await response.json();
-                
-                if (data.url) {
-                    // Update button destination and text
-                    downloadBtn.href = data.url;
-                    downloadBtn.textContent = "Download Delta IPA";
-                    downloadBtn.classList.remove('disabled');
-                    
-                    // Update status label text
-                    statusText.textContent = "IPA Link updated successfully!";
-                    statusText.style.color = "#4caf50";
-                    console.log("Success! Extracted IPA Link:", data.url);
-                } else {
-                    throw new Error("Worker connected, but no URL was found in the page text parsing.");
-                }
-            } catch (err) {
-                console.error("Error fetching from worker:", err);
-                downloadBtn.textContent = "Download Unavailable";
-                statusText.textContent = "Error: Failed to dynamically grab the link.";
-                statusText.style.color = "#ff3333";
+                statusText.textContent = "IPA Link updated successfully!";
+                statusText.style.color = "#4caf50";
+            } else {
+                throw new Error("Worker connected, but failed to locate target url parameter inside the response payload.");
             }
+        } catch (err) {
+            console.error("Detailed Execution Error:", err);
+            downloadBtn.textContent = "Download Unavailable";
+            statusText.textContent = `Error: ${err.message}`;
+            statusText.style.color = "#ff3333";
         }
+    }
 
-        // CRITICAL FIX: Automatically trigger the function once the HTML DOM structure has loaded
-        window.addEventListener('DOMContentLoaded', getIpaLink);
-    </script>
+    window.addEventListener('DOMContentLoaded', getIpaLink);
+</script>
 
 </body>
 </html>
