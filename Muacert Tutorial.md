@@ -48,3 +48,5 @@
 5. Import the certificate ZIP, then press it and unzip it.
 6. Open the certificate folder, press the .mobileprovision file, and import it.
 7. Press the .p12 file, and import it after entering the password ("1").
+
+<img width="325" height="615" alt="image" src="https://github.com/user-attachments/assets/ec3a47e0-3e92-4fa7-9dbc-16ae14f5c0d4" />
