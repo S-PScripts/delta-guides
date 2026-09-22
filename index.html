@@ -277,12 +277,11 @@
           <div>
             <div class="label">Android</div>
             <div class="name">Latest APK</div>
-            <div class="version">Delta 2.738.1397</div>
+            <div id="android-version" class="version">Delta 2.738.1397</div>
           </div>
-          <a class="button" href="https://delta.filenetwork.vip/file/Delta-2.738.1397.apk">Download APK</a>
+          <a id="android-link" class="button" href="https://delta.filenetwork.vip/file/Delta-2.738.1397.apk">Download APK</a>
         </article>
-      </div>
-    </section>
+
 
     <section>
       <h2 class="section-title">Platform Support</h2>
@@ -364,8 +363,37 @@
     }
   }
 
+async function syncLiveAndroidAssets() {
+    try {
+      const response = await fetch('https://delta.filenetwork.vip/get_files.php');
+      if (!response.ok) return; 
+      
+      const data = await response.json();
+      
+      // CRITICAL FIX: Added [0] index accessor to target the object block inside the array list
+      if (data.latest_apk && data.latest_apk.length > 0) {
+        const apkFile = data.latest_apk[0].name; // Correctly returns "Delta-2.738.1397.apk"
+        
+        // Build and bind the precise download endpoint destination link string
+        const finalApkUrl = `https://delta.filenetwork.vip/${apkFile}`;
+        document.getElementById('android-link').href = finalApkUrl;
+        
+        // Extract version text number format by stripping "Delta-" and ".apk" string pieces
+        const versionNumber = apkFile.replace('Delta-', '').replace('.apk', '');
+        document.getElementById('android-version').textContent = `Delta ${versionNumber}`;
+        
+        console.log("Android Live Sync Success:", finalApkUrl, versionNumber);
+      }
+    } catch (err) {
+      console.log("Android asset sync bypassed:", err.message);
+    }
+  }
+  
   // Trigger link synchronisation the moment the document fully parses
-  window.addEventListener('DOMContentLoaded', syncLiveIpaAssets);
+  window.addEventListener('DOMContentLoaded', () => {
+    syncLiveIpaAssets();
+    syncLiveAndroidAssets();
+  });
 </script>
 
 </body>
