@@ -375,7 +375,7 @@
 			if(data.latest_apk && data.latest_apk.length > 0) {
 				const apkFile = data.latest_apk[0].name; // Correctly returns "Delta-2.738.1397.apk"
 				// Build and bind the precise download endpoint destination link string
-				const finalApkUrl = `https://delta.filenetwork.vip/${apkFile}`;
+				const finalApkUrl = `https://delta.filenetwork.vip/file/${apkFile}`;
 				document.getElementById('android-link').href = finalApkUrl;
 				// Extract version text number format by stripping "Delta-" and ".apk" string pieces
 				const versionNumber = apkFile.replace('Delta-', '').replace('.apk', '');
