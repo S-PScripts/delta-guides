@@ -72,6 +72,7 @@ I personally think that mods who don't care about Delta should not have the role
 
 Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towards women:
 - koda got promoted from trial support to support in 2 days
+- (edit: now koda's got a "retired staff" role when no other retired staff got one???)
 - it's supposed to be 2 weeks (even though I was really active, I went through the same)
 - layla kept getting her support role back just by asking
 - atedrvgs was able to stay as support after several chances
