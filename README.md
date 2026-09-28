@@ -5,3 +5,7 @@ I have converted most of my guides to .md files for easy reading, but you can al
 
 **Go to the "delta-exposal" folder to find out more.**
 <!-- -->
+
+
+
+the site was very cool and updated a lot. then the ai took over. pls help
