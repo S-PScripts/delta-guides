@@ -8,4 +8,4 @@ I have converted most of my guides to .md files for easy reading, but you can al
 
 
 
-the site was very cool and updated a lot. then the ai took over. pls help
+Site created by ChatGPT Thank You
