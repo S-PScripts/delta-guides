@@ -3,8 +3,8 @@ I was a Support for the Delta Community Discord server from early July 2026 to l
 
 I have a certain opinion, and I am not alone in this. The Support Manager and Moderator, Alan, should not have the roles he has. I have deleted all my solutions from the server, as all actions, such as him demoting me for NSFW, have consequences.
 
-If you want to see exactly what I did to get demoted, press this link. Then, you will witness Alan's ignorance and idiocy:
-https://gofile.io/d/iBEMXeSa
+If you want to see exactly what I did to get demoted, press this link. Then, you can also witness Alan's ignorance and idiocy:
+https://gofile.io/d/iBEMXeSa (it's been deleted and I can't be bothered to reupload, if you want the images DM me or something). 
 
 Alan tried to deflect by showing how nyxolz agreed with him, but that's because she's busy with Prism and doesn't check Delta that much. Alan KNOWS that.
 
@@ -58,6 +58,7 @@ Here is another Support stating that my solutions helped them. This applies to m
 <img width="563" height="191" alt="image" src="https://github.com/user-attachments/assets/3e9db09b-7120-4587-800b-0e966ffdf1dd" />
 
 A Support who tried to repost my guide without credit and also clearly didn't double-check it, as it contained a link to https://ksign-installer.vercel.app, which has a link to my website:
+
 <img width="578" height="70" alt="image" src="https://github.com/user-attachments/assets/b4eb2865-9e87-4302-9217-5164130ea860" />
 
 Did you know that promotions are stupid? Here's why:
@@ -81,6 +82,8 @@ Nyxolz should have a promotion, but that won't happen. The maximum is Senior Mod
 
 Now, it turns out that alan is quitting anyway. I guess he's just powertripping in the time he has left. Except this guy is taking his sweet old time doing so, and worse... he's been considered to become a SENIOR moderator???
 <img width="762" height="60" alt="image" src="https://github.com/user-attachments/assets/8223dd4f-4472-4726-a3f4-798cca702e90" />
+
+Update: Ever since ylem created a Support Application channel (shortly after my demotion), lots of people have been promoted. Luckily, they are helping rather well! Or are they? Turns out half of them got a warning for not doing enough proofs. Also, despite there being 20 Supports, support forums are occasionally void of helpers.
 
 For more information, join [this server](https://discord.gg/PFqKfZSGAe).
 
