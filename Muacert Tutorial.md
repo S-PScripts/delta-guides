@@ -13,17 +13,17 @@
 1. Navigate to https://muacert.com/topup (use Safari).
 2. Click on the Apple Pay / Google Pay / Credit Card option, then select "Understood, go to BuyMeACoffee" on the confirmation prompt.
 3. Enter your desired top-up amount (preferably at least **$4 USD**)
-> While Muacert lists the input in USD, the platform automatically adjusts for local currency conversions. For example, if you are purchasing from the UK and enter "4" in the BuyMeACoffee box, your account will actually be credited $5.34 USD due to the exchange rate.
+> While Muacert lists the input in USD, the platform automatically adjusts for local currency conversions. For example, if you are purchasing from the UK and enter "4" in the BuyMeACoffee box, your account will actually be credited with $5.34 USD due to the exchange rate.
 
 > For other methods of purchase, join the Ksign Support server: https://discord.gg/twjKH5qxFZ
-4. Once you purchase, your account should get topped up.
+4. Once you purchase, your account should be topped up.
 
 ## Purchasing a certificate
 1. Go to https://muacert.com/add.
-2. Press on the "GET UDID" button.
-3. Press on Open.
+2. Press the "GET UDID" button.
+3. Press Open.
 4. Go to the Settings app on your phone, then go to General -> VPN and Device Management.
-5. Install the muacert configuration profile, which will provide the UDID.
+5. Install the Muacert configuration profile, which will provide the UDID.
 > If Muacert does not work, use https://udid.tech/ and enter the UDID given manually into the "Enter UDID" box.
 6. Select one of the certificate  options available, provided it is not above your balance.
 7. Confirm your UDID is correct, and then Add Device.
@@ -32,21 +32,19 @@
 
 ## Signing 
 1. Go to https://muacert.com/sign.
-2. Choose Ksign or Esign 2.0, preferably, then press Sign and Download App.
-3. If nothing installs, turn your Wi-Fi off and use mobile data. You may need to use a VPN (preferably ZIC VPN) (turn VPN off afterwards)
+2. Choose Ksign or Esign 2.0 (preferably), then press Sign and Download App.
+3. If nothing installs, turn your Wi-Fi off and use mobile data. You may need to use a VPN (preferably ZIC VPN; turn the VPN off afterwards).
 
 ## Trusting the application
 1. Enable Developer Mode by going to Settings -> Privacy & Security, and scrolling to the bottom.
 2. Restart your phone, and you should be able to open the application you installed.
 3. Read https://github.com/S-PScripts/delta-guides/blob/main/Using%20KSign%20(IPA).md
 
-## Downloading certificate (only needed for old Esign)
+## Downloading and importing the certificate (only needed for old Esign)
 1. Go to https://muacert.com/dashboard.
 2. Scroll down to REGISTERED DEVICES.
 3. Press on your device, then press "Download certificate zip file".
 4. Open Esign, then press the ... button at the top right.
-5. Import the certificate ZIP, then press it and unzip it.
+5. Import the certificate ZIP, then tap it and unzip it.
 6. Open the certificate folder, press the .mobileprovision file, and import it.
-7. Press the .p12 file, and import it after entering the password ("1").
-
-<img width="325" height="615" alt="image" src="https://github.com/user-attachments/assets/ec3a47e0-3e92-4fa7-9dbc-16ae14f5c0d4" />
+7. Tap the .p12 file and import it after entering the password ("1").
