@@ -1,7 +1,7 @@
 # Delta Executor - Internal Hell 
 I was a Support for the Delta Community Discord server from early July 2026 to late September 2026. However, I had been helping with Delta since January 2026. I've helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). The manager (whoise) even asked me for help once.
 
-I have a certain opinion, and I am not alone in this. The Support Manager and Moderator, Alan, should not have the roles he has. I have deleted all my solutions from the server, as all actions, such as him demoting me for NSFW, have consequences.
+I have a certain opinion, and I am not alone in this. The Support Manager and Moderator, Alan, should not have had the roles he had (**had**, as he retired). I have deleted all my solutions from the server, as all actions, such as him demoting me for NSFW, have consequences.
 
 If you want to see exactly what I did to get demoted, press this link. Then, you can also witness Alan's ignorance and idiocy:
 https://gofile.io/d/iBEMXeSa (it's been deleted and I can't be bothered to reupload, if you want the images DM me or something). 
