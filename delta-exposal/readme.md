@@ -85,6 +85,9 @@ Now, it turns out that alan is quitting anyway. I guess he's just powertripping 
 
 Update: Ever since ylem created a Support Application channel (shortly after my demotion), lots of people have been promoted. Luckily, they are helping rather well! Or are they? Turns out half of them got a warning for not doing enough proofs. Also, despite there being 20 Supports, support forums are occasionally void of helpers.
 
+07/10/2026 Update: alan finally got the moderator role removed, but of course he gets
+to have the "Retired Staff" role. carlitos replaced him as moderator but there will be no new support manager. Good.
+
 For more information, join [this server](https://discord.gg/PFqKfZSGAe).
 
 <!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk/ipa website lmao -->
