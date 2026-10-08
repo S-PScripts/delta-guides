@@ -93,15 +93,15 @@ Update: Ever since ylem created a Support Application channel (shortly after my 
 to have the "Retired Staff" role. carlitos replaced him as moderator but there will be no new support manager. Good.
 same day but nyxolz update: alan left discord and quit, warxr senior mod, reflex quit and ^ 
 
-# nyxolz section
+# nyxolz section/summarize stuff
 - delta is ded
 - ownership is crazy
-- solstice defends pedos and talks about underage people in nsfw scenarios or doing nsfw things
+- solstice defends pedos and talks about underage people in nsfw scenarios or doing nsfw things - so whatever she says is invalid, this is just a fact idk why i added this
 - everyone is inactive or has quit
 - support team is dead
 - ylem isnt really active and doesnt do much
  ^ same with phxyzn
-- idk
+
 
 <!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk/ipa website lmao -->
 <!-- delta-testing.net is link -->
