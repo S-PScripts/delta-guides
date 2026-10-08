@@ -100,6 +100,7 @@ same day but nyxolz update: alan left discord and quit, warxr senior mod, reflex
 - everyone is inactive or has quit
 - support team is dead
 - ylem isnt really active and doesnt do much
+
  ^ same with phxyzn
 
 
