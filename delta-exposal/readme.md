@@ -24,7 +24,8 @@ I would also like to mention Ylem. He's the guy who updated the support applicat
 
 # nyxolz
 - everyone who applies is mostly a idiot or underage due to these preschool applications ♥️ (for example deltauser/catlover04963 and most trials)
-
+  
+# delta dead? 
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps less people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections aren't happening, or the selections are just shit.
 
 Let me show you the current (non-Trial) Support List and their contributions:
@@ -43,6 +44,7 @@ I became Support to fix the rotten #solutions channel (since it was missing a to
 
 But I got demoted over a 5-word message. Insane. I also got called a chud by Alan for making so many solutions, and although yes, it looked ridiculous, most, if not all, of my solutions had a purpose.
 
+# ts2021 random yap
 I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. Otherwise, we get warnings for rule 1 (being even a tiny bit disrespectful/impolite when most of the people talking are idiots).
 
 Rule 1 is enforced because Phxyzn has authority over nyxolz. Phxyzn is barely active nowadays, and the last time he was online, he started to larp as an e-girl. Very professional. Who's the actual NSFWer? 
@@ -62,7 +64,7 @@ A Support who tried to repost my guide without credit and also clearly didn't do
 
 <img width="578" height="70" alt="image" src="https://github.com/user-attachments/assets/b4eb2865-9e87-4302-9217-5164130ea860" />
 
-Did you know that promotions are stupid? Here's why:
+# Did you know that promotions are stupid? Here's why:
 - you can't get promoted from support to moderator as there's a maximum of three
 - **no matter how good you are**, **no matter how active you are**
 - you need to keep **slaving** away
