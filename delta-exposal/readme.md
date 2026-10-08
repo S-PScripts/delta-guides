@@ -72,7 +72,7 @@ A Support who tried to repost my guide without credit and also clearly didn't do
 - for most servers, there isn't a limit for promotions
 
 The current mods, apart from alan, did not have any staff role for months. They just randomly got promoted straight to Moderator as there were spots.
-I personally think that mods who don't care about Delta should not have the role.
+I personally think that mods who don't care about Delta should not have the role. (**warxr and coolaid**)
 
 Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towards women:
 - koda got promoted from trial support to support in 2 days
