@@ -97,7 +97,7 @@ Late-September/Early October Update: Ever since ylem created a Support Applicati
 to have the "Retired Staff" role. carlitos replaced him as moderator but there will be no new support manager. Good.
 
 07/10/2026: Alan has now left Discord and quit, and reflex quit too, so warxr got senior mod. As for why him over coolaid, I don't know.
-Both aren't even that active.
+Both aren't even that active. Also track33 has support manager role for some reason hhhhhherfddddddddd
 
 # nyxolz section/summarize stuff
 - delta is ded (chat is drier by the day)
