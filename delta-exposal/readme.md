@@ -15,7 +15,7 @@ https://discord.gg/prismmacos**
 
 He also likes having fun removing and re-adding roles from us, and being a negative guy in general.
 
-nyxolz has never done that, and despite her flaws, is still much better than him. Unfortunately, she's kept him on the team (almost certainly not on her own accord).
+nyxolz unfortunately decided to kept him on the team (but I found out that it was not on her own accord).
 
 **Do not repost my guides in the #solutions channel. Do that, and I will get them taken down.** And before you say, "oh it isn't serious", I'm literally in the top 10 for this server. Alan is ABOVE me. He's the DISCORD MOD, he's the bum, not me.
 
