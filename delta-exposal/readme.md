@@ -118,8 +118,8 @@ Track33, previously Support, was also promoted to moderator and is also a suppor
 1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it).
 2. Bogie (platoboost owner/Delta keysystem owner) does not provide replacements for Lifetime keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
 3. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons.
-4. con.crete is the developer of Delta (and has the Owner role), but they weren't always. Mlemix (the creator and owner of Delta) was until lxnny replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless.
-5. Lxnny promoting websites like RoStake, especially in #support-chat.
+4. con.crete is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
+5. Lxnny has promoted websites like RoStake, especially in #support-chat.
 6. Ylem/bogie have never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
 
 # Nyxolz's summarisation
