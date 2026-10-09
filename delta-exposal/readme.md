@@ -28,7 +28,7 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 One of the other senior moderators (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan.
 
 ## 2. Ylem and Phxyzn
-Phxyzn is the Staff Manager of the server. He is the guy who updated the support application in early 2026 to have ZERO questions about Delta troubleshooting (initially, it wasn't like that). NOTE: Phxyzn made the first support application too, back in November 2025. I assume it was updated due to the server dying and losing intelligent people.
+Phxyzn is the Staff Manager of the server. He is the guy who updated the support application in early 2026 to have ZERO questions about Delta troubleshooting (initially, it wasn't like that). NOTE: Phxyzn made the first support application too, back in November 2025. I assume it was updated due to the server dying and losing intelligent people. Also, in case you think that I'm retarded, Phxyzn said in #support-chat (when I completed the application even though I was banned at the time) that I got nearly everything right on THAT old application. Keep in mind that I wasn't as good at helping at the time; I didn't have 30 guides as I have now.
 
 Ylem (Manager) didn't object to Phxyzn's decision. I personally think that the reason Ylem's given is stupid; right now it's basically 'do the support app to get support'. All this does is get some Trials that are half-decent at supporting, who usually get demoted within a few weeks:
 
