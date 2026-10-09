@@ -72,7 +72,7 @@ He is recommending turning off Wi-Fi when he is on an iPad?
 ## 4. Support Dictatorship, Bias and Impossible Promotions
 I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. Otherwise, we get warnings for rule 1 (being even a tiny bit disrespectful/impolite when most of the people talking are idiots).
 
-Rule 1 is enforced because Phxyzn has authority over nyxolz. Phxyzn is barely active nowadays, and the last time he was online, he started to larp as an e-girl. Very professional. Who's the actual NSFWer? 
+Rule 1 is enforced because Phxyzn (Staff Manager) has authority over nyxolz. Phxyzn is barely active nowadays, and the last time he was online, he started to larp as an e-girl. Very professional. Who's the actual NSFWer? 
 
 Did you know that promotions are stupid? Here's why:
 - You can't get promoted from support to moderator, as there's a maximum of three (same with senior).
