@@ -75,6 +75,11 @@ i pretended to need help installing delta android. this support thought to get i
 
 i have no idea where he was getting delta android installation steps from but it was probably his ass
 
+<img width="536" height="429" alt="image" src="https://github.com/user-attachments/assets/3198c61f-a06c-4523-ab42-6f3ac73f231e" />
+
+he's on an ipad with only wifi bro
+
+
 # Did you know that promotions are stupid? Here's why:
 - you can't get promoted from support to moderator as there's a maximum of three
 - **no matter how good you are**, **no matter how active you are**
