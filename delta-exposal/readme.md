@@ -1,4 +1,7 @@
 # Delta Executor - Internal Hell 
+**10/09/2026: Track33 reinstated my Support role. I will probably not abandon this README.md, but it will probably receive less updates hereafter.
+**
+
 I was a Support for the Delta Community Discord server between 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). The manager (whoise) even asked me for help once. I have made this README.md to discuss the administration of the Delta server - specifically, why it isn't good.
 
 ## 1. Alan
@@ -113,16 +116,6 @@ Carlitos replaced him as moderator (which is fine; he is actually passionate), a
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
 Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (nyxolz has support manager role but doesn't do it anymore)
-
-10/09/2026: Track33 reinstated my Support role. I will probably not abandon this README.md, but it will probably receive less updates hereafter.
-
-## 6. Other things unrelated to Delta Administration
-1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it).
-2. Bogie (platoboost owner/Delta keysystem owner) does not provide replacements for Lifetime keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
-3. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons.
-4. con.crete is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
-5. Lxnny has promoted websites like RoStake, especially in #support-chat.
-6. Ylem/bogie have never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
