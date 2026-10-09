@@ -11,7 +11,7 @@ Alan tried to deflect by showing how nyxolz agreed with him (she is a senior mod
 
 <img width="434" height="640" alt="image" src="https://github.com/user-attachments/assets/f894ecdd-1502-4c47-86c3-28e961c58312" />
 
-Shortly after he demoted me, I decided to delete all my solutions from the Delta Community server, as all actions, such as him demoting me for NSFW, have consequences.
+NOTE: Shortly after he demoted me, I decided to delete all my solutions from the Delta Community server, as all actions, such as him demoting me for NSFW, have consequences. Please don't repost my stuff in #solutions without my permission.
 
 Alan also liked having fun removing and re-adding roles from us, and being a negative guy in general. He thinks he's the "goat" and that he's not a chud like the rest of us. But I mean... he was a moderator. And he stayed on the moderation team for THREE WEEKS before actually getting removed. Despite him supposedly quitting, he joined on his alt and said some nice stuff like the following...
 <img width="776" height="62" alt="image" src="https://github.com/user-attachments/assets/da59bbfa-3c29-42de-b8c3-b8ef31654c98" />
