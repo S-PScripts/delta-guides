@@ -1,6 +1,5 @@
 # Delta Executor - Internal Hell 
-**10/09/2026: Track33 reinstated my Support role. I will probably not abandon this README.md, but it will probably receive less updates hereafter.
-**
+**10/09/2026: Track33 reinstated my Support role. I will probably not abandon this README.md, but it will probably receive less updates hereafter.**
 
 I was a Support for the Delta Community Discord server between 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). The manager (whoise) even asked me for help once. I have made this README.md to discuss the administration of the Delta server - specifically, why it isn't good.
 
