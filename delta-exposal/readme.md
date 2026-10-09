@@ -114,6 +114,8 @@ Carlitos replaced him as moderator (which is fine; he is actually passionate), a
 
 Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (nyxolz has support manager role but doesn't do it anymore)
 
+10/09/2026: Track33 reinstated my Support role. I will probably not abandon this README.md, but it will probably receive less updates hereafter.
+
 ## 6. Other things unrelated to Delta Administration
 1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it).
 2. Bogie (platoboost owner/Delta keysystem owner) does not provide replacements for Lifetime keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
