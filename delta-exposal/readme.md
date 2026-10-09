@@ -22,8 +22,7 @@ nyxolz has never done that, and despite her flaws, is still much better than him
 I would also like to mention Ylem. He's the guy who updated the support application to have ZERO questions about Delta troubleshooting. Some of the Trials chosen are rather stupid, and it probably would not happen if the support application was actually good (the old one was much better). What a genius:
 <img width="640" height="613" alt="image" src="https://github.com/user-attachments/assets/09815ab3-76bc-4661-957a-26374d55ec53" />
 
-# nyxolz
-- everyone who applies is mostly an idiot or underage due to these preschool applications ♥️ (for example deltauser/catlover04963 and most trials)
+nyxolz - everyone who applies is mostly an idiot or underage due to these preschool applications ♥️ (for example deltauser/catlover04963 and most trials)
   
 # delta dead? 
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps less people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
@@ -55,9 +54,10 @@ Rule 1 is enforced because Phxyzn has authority over nyxolz. Phxyzn is barely ac
 Here are three screenshots (one Support, one former Support, one Trial Support) that share my opinion. You may be able to guess who they are, but I will not be the one telling you that!
 (edit: solstice actually did some bad stuff, so is probably biased. oh well)
 
-![Discord Screenshot 1](Screenshot_20260916_163152_Discord.jpg)
-![Discord Screenshot 2](Screenshot_20260916_163135_Discord.jpg)
-![Discord Screenshot 3](Screenshot_20260916_163201_Discord.jpg)
+<img src="Screenshot_20260916_163152_Discord.jpg" width="50%">
+<img src="Screenshot_20260916_163135_Discord.jpg" width="50%">
+<img src="Screenshot_20260916_163201_Discord.jpg" width="50%">
+
 
 One of the other senior moderators (not nyxolz) is also a little suspicious of alan too, but didn't make it that clear. 
 
@@ -67,6 +67,13 @@ Here is another Support stating that my solutions helped them. This applies to m
 A Support who tried to repost my guide without credit and also clearly didn't double-check it, as it contained a link to https://ksign-installer.vercel.app, which has a link to my website:
 
 <img width="578" height="70" alt="image" src="https://github.com/user-attachments/assets/b4eb2865-9e87-4302-9217-5164130ea860" />
+
+## even more retardation
+i pretended to need help installing delta android. this support thought to get it, i had to use ksign (ios only btw). bro got told by phxyzn that i was trolling cuz he didn't realise (im crine).
+
+<img width="505" height="77" alt="image" src="https://github.com/user-attachments/assets/5f0dd6c5-340b-4d80-a1f2-1f036ccc8f00" />
+
+i have no idea where he was getting delta android installation steps from but it was probably his ass
 
 # Did you know that promotions are stupid? Here's why:
 - you can't get promoted from support to moderator as there's a maximum of three
