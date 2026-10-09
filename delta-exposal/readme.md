@@ -27,11 +27,20 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 
 One of the other senior moderators (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan.
 
-## 2. Ylem
-Ylem is the manager of the server. He's the guy who updated the support application to have ZERO questions about Delta troubleshooting. Some of the Trials chosen are rather stupid, and it probably would not happen if the support application was actually good (the old one was much better). What a genius:
+## 2. Ylem and Phxyzn
+Phxyzn is the Staff Manager of the server. He is the guy who updated the support application in early 2026 to have ZERO questions about Delta troubleshooting (initially, it wasn't like that). NOTE: Phxyzn made the first support application too, back in November 2025. I assume it was updated due to the server dying and losing intelligent people.
+
+Ylem (Manager) didn't object to Phxyzn's decision. I personally think that the reason Ylem's given is stupid; right now it's basically 'do the support app to get support'. All this does is get some Trials that are half-decent at supporting, who usually get demoted within a few weeks:
+
 <img width="640" height="613" alt="image" src="https://github.com/user-attachments/assets/09815ab3-76bc-4661-957a-26374d55ec53" />
 
-Nyxolz also stated the following "everyone who applies is mostly an idiot or underage due to these preschool applications ♥️ (for example, deltauser/catlover04963 and most trials)"
+
+<img width="470" height="31" alt="image" src="https://github.com/user-attachments/assets/835218cf-6661-41c2-aa88-bc66520ff088" />
+
+
+<img width="470" height="49" alt="image" src="https://github.com/user-attachments/assets/4b1fa22f-d027-415f-af5f-201f3f6866bf" />
+
+Nyxolz also stated the following: "everyone who applies is mostly an idiot or underage due to these preschool applications ♥️ (for example, deltauser/catlover04963 and most trials)"
 
 Ever since ylem created a Support Application channel (shortly after my demotion), lots more people were promoted. Luckily, they were helping rather well! Or were they? Turns out half of them got a warning for not doing enough proofs. A bunch ended up getting demoted. Also, despite there being 20 Supports, support forums are occasionally void of helpers.
 
@@ -104,6 +113,14 @@ Carlitos replaced him as moderator (which is fine; he is actually passionate), a
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
 Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately).
+
+## 6. Other things unrelated to Delta Administration
+1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it).
+2. Bogie (platoboost owner/Delta keysystem owner) does not provide replacements for Lifetime keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
+3. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons.
+4. con.crete is the developer of Delta (and has the Owner role), but they weren't always. Mlemix (the creator and owner of Delta) was until lxnny replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless.
+5. Lxnny promoting websites like RoStake, especially in #support-chat.
+6. Ylem/bogie have never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
