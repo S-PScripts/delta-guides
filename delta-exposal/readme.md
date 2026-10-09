@@ -112,6 +112,7 @@ Alan, when he got demoted, got to have the "Retired Staff" role too. However, he
 
 ## 5. The Present State
 Carlitos replaced him as moderator (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
+
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
 Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (nyxolz has support manager role but doesn't do it anymore)
