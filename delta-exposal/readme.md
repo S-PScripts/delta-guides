@@ -61,11 +61,11 @@ A Support who tried to repost my guide without credit and also clearly didn't do
 
 <img width="578" height="70" alt="image" src="https://github.com/user-attachments/assets/b4eb2865-9e87-4302-9217-5164130ea860" />
 
-I pretended to need help installing Delta Android. This support thought to get it; I had to use ksign (iOS only, by the way). He got told by phxyzn that I was trolling, as he didn't realise. I have no idea where he was getting his Delta Android installation steps from...
+I'd also like to prove the intelligence of some of the current support members. For example, here I pretended to need help installing Delta Android. This support thought to get it; I had to use ksign (iOS only, by the way). He got told by phxyzn that I was trolling, as he didn't realise. I have no idea where he was getting his Delta Android installation steps from...
 
 <img width="505" height="77" alt="image" src="https://github.com/user-attachments/assets/5f0dd6c5-340b-4d80-a1f2-1f036ccc8f00" />
 
-He is recommending turning off Wi-Fi when he is on an iPad?
+Here is another Support recommending turning off Wi-Fi when he is on an iPad...
 
 <img width="536" height="429" alt="image" src="https://github.com/user-attachments/assets/3198c61f-a06c-4523-ab42-6f3ac73f231e" />
 
