@@ -3,85 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Delta Download Link Extractor</title>
+    <title>Hey It's Me, It's Verity</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            padding: 40px;
-            background: #111;
-            color: #fff;
-            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #111;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
         }
-        .btn {
-            display: inline-block;
-            padding: 12px 24px;
-            background: #0070f3;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-            margin-top: 20px;
-            transition: background 0.2s ease;
+        .video-container {
+            width: 80%;
+            max-width: 800px;
+            aspect-ratio: 16 / 9;
         }
-        .btn:hover {
-            background: #0056b3;
-        }
-        .btn.disabled {
-            background: #444;
-            pointer-events: none;
-            opacity: 0.6;
-        }
-        #status {
-            color: #aaa;
-            margin-top: 10px;
-            font-size: 14px;
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
         }
     </style>
 </head>
 <body>
 
-    <h1>Download Delta Emulator</h1>
-    
-    <!-- The button that will get updated with the fresh link -->
-    <a id="download-btn" href="#" class="btn disabled">Loading freshest IPA link...</a>
-    <p id="status">Connecting to private Cloudflare Worker...</p>
-
-<script>
-    async function getIpaLink() {
-        const downloadBtn = document.getElementById('download-btn');
-        const statusText = document.getElementById('status');
-
-        try {
-            statusText.textContent = "Connecting to private Cloudflare Worker...";
-            
-            const response = await fetch('https://morning-term-a2ec.ts2021me.workers.dev');
-            if (!response.ok) throw new Error(`Worker issue: ${response.status}`);
-            
-            const data = await response.json();
-            console.log("Parsed Worker Live Data:", data);
-
-            if (data.url) {
-                downloadBtn.href = data.url;
-                downloadBtn.textContent = "Download Delta IPA";
-                downloadBtn.classList.remove('disabled');
-                
-                statusText.textContent = "IPA Link updated successfully from source!";
-                statusText.style.color = "#4caf50";
-            } else if (data.error) {
-                throw new Error(data.error);
-            } else {
-                throw new Error("No active URL returned.");
-            }
-        } catch (err) {
-            console.error("Detailed Execution Error:", err);
-            downloadBtn.textContent = "Download Unavailable";
-            statusText.textContent = `Error: ${err.message}`;
-            statusText.style.color = "#ff3333";
-        }
-    }
-
-    window.addEventListener('DOMContentLoaded', getIpaLink);
-</script>
+    <div class="video-container">
+        <!-- Embedded official "It's me, It's Verity" video -->
+        <iframe 
+            src="https://www.youtube.com/watch?v=jYW0AKKQdFc" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
 
 </body>
 </html>
