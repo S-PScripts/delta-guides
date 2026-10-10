@@ -14,8 +14,8 @@
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;min-height:100vh;background:var(--bg);color:var(--text);font-family:Inter,system-ui,sans-serif;overflow-x:hidden}
 a{color:inherit}button,a{-webkit-tap-highlight-color:transparent}
 #backdrop{position:fixed;inset:0;z-index:-3;overflow:hidden;background:#080912}
-#yt-frame{position:absolute;left:50%;top:50%;width:177.78vh;height:100vh;min-width:100vw;min-height:56.25vw;transform:translate(-50%,-50%);border:0;opacity:.25;pointer-events:none;filter:saturate(1.3) brightness(.68)}
-#backdrop:after{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 15% 8%,#7639e64d,transparent 42%),radial-gradient(ellipse at 90% 75%,#176ee64a,transparent 44%),linear-gradient(180deg,#080912a8,#080912d9 55%,#080912 100%)}
+#yt-frame{position:absolute;left:50%;top:50%;width:177.78vh;height:100vh;min-width:100vw;min-height:56.25vw;transform:translate(-50%,-50%);border:0;opacity:1;pointer-events:none;filter:none}
+#backdrop:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,#08091218 0%,#08091230 60%,#08091270 100%);pointer-events:none}
 .ambient{position:fixed;inset:0;z-index:-2;pointer-events:none;background-image:linear-gradient(#ffffff05 1px,transparent 1px),linear-gradient(90deg,#ffffff05 1px,transparent 1px);background-size:54px 54px;mask-image:linear-gradient(to bottom,black,transparent 85%)}
 .wrap{width:min(1120px,calc(100% - 36px));margin:auto;padding:34px 0 48px}
 nav{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-bottom:76px}
@@ -37,13 +37,51 @@ footer{display:flex;justify-content:space-between;align-items:center;gap:15px;fl
 @media(max-width:760px){nav{margin-bottom:54px}.platform-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.tools{grid-template-columns:1fr}.section-head{align-items:flex-start;flex-direction:column}.wrap{width:min(100% - 28px,1120px);padding-top:20px}}
 @media(max-width:520px){.navlinks a{padding:8px;font-size:11px}.brand{font-size:13px}.grid,.platform-grid{grid-template-columns:1fr}.card{padding:19px}.hero-actions .btn{flex:1}.notice{font-size:11px}footer{margin-top:48px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important;transition:none!important}}
+
+.auth-gate{position:fixed;inset:0;z-index:999;display:grid;place-items:center;padding:20px;background:#03040bd9;backdrop-filter:blur(18px);transition:opacity .35s,visibility .35s}
+.auth-gate.unlocked{opacity:0;visibility:hidden;pointer-events:none}
+.auth-panel{width:min(560px,100%);padding:28px;border-radius:24px;border:1px solid #ffffff25;background:rgba(12,15,31,.82);box-shadow:0 28px 100px #0009;text-align:left}
+.auth-mark{display:flex;align-items:center;gap:10px;font-size:11px;font-weight:900;letter-spacing:.16em;color:#cbd3ea;text-transform:uppercase}
+.auth-panel h2{font:700 clamp(30px,6vw,44px)/1 "Space Grotesk",sans-serif;letter-spacing:-.06em;margin:25px 0 12px}
+.auth-panel h2 span{background:linear-gradient(90deg,#b69aff,#6cecf0);background-clip:text;-webkit-background-clip:text;color:transparent}
+.auth-panel p{color:#b1bad0;font-size:13px;line-height:1.7;margin:0 0 18px}
+.auth-video{display:flex;align-items:center;gap:12px;padding:13px 14px;border-radius:13px;border:1px solid #ffffff18;background:#ffffff08;margin:20px 0}
+.auth-video-dot{width:9px;height:9px;border-radius:50%;background:#ffc66d;flex-shrink:0}
+.auth-video-dot.ready{background:#5de0a0;box-shadow:0 0 12px #5de0a0}
+.auth-video-copy{font-size:12px;color:#c7cfe2;line-height:1.5}
+.auth-progress{height:6px;border-radius:99px;overflow:hidden;background:#ffffff12;margin:16px 0 9px}
+.auth-progress-fill{height:100%;width:0;background:linear-gradient(90deg,#9b6cff,#4d8dff,#55e5ef);border-radius:99px;transition:width .2s}
+.auth-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;color:#8d98b5;font-size:11px}
+.auth-enter{width:100%;margin-top:20px;border:0;cursor:not-allowed;opacity:.5}
+.auth-enter.enabled{cursor:pointer;opacity:1}
+.auth-enter:focus-visible,.btn:focus-visible,.navlinks a:focus-visible{outline:2px solid #8bb7ff;outline-offset:3px}
+@media(max-width:520px){.auth-panel{padding:22px}.auth-panel h2{margin-top:20px}}
+
 </style>
 </head>
 <body>
 <div id="backdrop" aria-hidden="true">
   <iframe id="yt-frame" title="Ambient background video" src="https://www.youtube-nocookie.com/embed/tVlKLpxyCBY?autoplay=1&mute=1&controls=0&loop=1&playlist=tVlKLpxyCBY&playsinline=1&rel=0&modestbranding=1" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 </div>
-<div class="ambient" aria-hidden="true"></div>
+<div class="ambient" aria-hidden="true" style="opacity:.12"></div>
+
+<div class="auth-gate" id="authGate" role="dialog" aria-modal="true" aria-labelledby="auth-title">
+  <div class="auth-panel">
+    <div class="auth-mark"><span class="logo">Δ</span><span>Opus × Delta / Access check</span></div>
+    <h2 id="auth-title">Watch to <span>unlock.</span></h2>
+    <p>Watch the intro video for 15 seconds to enter the site. Keep this tab open and visible while it plays. If the YouTube embed is blocked, open the video directly and come back when it loads.</p>
+    <div class="auth-video">
+      <span class="auth-video-dot" id="authVideoDot"></span>
+      <div class="auth-video-copy" id="authVideoText">Waiting for the video to load…</div>
+    </div>
+    <div class="auth-progress" aria-label="Watch progress"><div class="auth-progress-fill" id="authProgressFill"></div></div>
+    <div class="auth-foot"><span id="authProgressText">0 / 15 seconds watched</span><span id="authPercent">0%</span></div>
+    <a class="btn btn-soft" id="authOpenVideo" href="https://www.youtube.com/watch?v=tVlKLpxyCBY" target="_blank" rel="noopener noreferrer" style="width:100%;margin-top:14px">Open video on YouTube ↗</a>
+    <button class="btn btn-main auth-enter" id="authEnter" type="button" disabled>Watch 15 seconds to continue</button>
+    <p style="font-size:10px;margin:14px 0 0;color:#77819a">This is a client-side watch gate, not secure account authentication. It can be bypassed by someone who edits the page.</p>
+  </div>
+</div>
+
 <div class="wrap">
 <nav>
   <a class="brand" href="#" aria-label="Back to top" style="text-decoration:none"><span class="logo">Δ</span><span>OPUS <span style="color:#9aabff">×</span> DELTA</span></a>
@@ -111,17 +149,77 @@ footer{display:flex;justify-content:space-between;align-items:center;gap:15px;fl
 (() => {
   const video = document.getElementById('yt-frame');
   const state = document.getElementById('video-state');
-  let loaded = false;
-  video.addEventListener('load', () => {
-    loaded = true;
-    state.textContent = 'Video embed loaded · muted background';
-  });
-  // A failed embed should never block the rest of the page.
-  window.setTimeout(() => {
-    if (!loaded) {
-      state.innerHTML = 'Background embed may be blocked · <a href="https://www.youtube.com/watch?v=tVlKLpxyCBY" target="_blank" rel="noopener noreferrer">open video on YouTube ↗</a>';
+  const gate = document.getElementById('authGate');
+  const enter = document.getElementById('authEnter');
+  const fill = document.getElementById('authProgressFill');
+  const progressText = document.getElementById('authProgressText');
+  const percentText = document.getElementById('authPercent');
+  const videoText = document.getElementById('authVideoText');
+  const videoDot = document.getElementById('authVideoDot');
+  const openVideo = document.getElementById('authOpenVideo');
+
+  let iframeLoaded = false;
+  let watchedSeconds = 0;
+  let lastTick = Date.now();
+  let unlocked = false;
+
+  function updateProgress() {
+    const seconds = Math.min(15, watchedSeconds);
+    const pct = Math.round(seconds / 15 * 100);
+    fill.style.width = pct + '%';
+    progressText.textContent = seconds + ' / 15 seconds watched';
+    percentText.textContent = pct + '%';
+    if (seconds >= 15) {
+      enter.disabled = false;
+      enter.classList.add('enabled');
+      enter.textContent = 'Enter site →';
+      videoText.textContent = 'Watch requirement complete. You can enter now.';
+      videoDot.classList.add('ready');
     }
-  }, 5000);
+  }
+
+  function unlock() {
+    if (unlocked || watchedSeconds < 15) return;
+    unlocked = true;
+    gate.classList.add('unlocked');
+    document.body.style.overflow = '';
+    window.setTimeout(() => { gate.hidden = true; }, 400);
+  }
+
+  enter.addEventListener('click', unlock);
+
+  // Count only elapsed time while the tab is visible and the video iframe
+  // has loaded. YouTube does not expose playback state through a plain iframe,
+  // so this is a lightweight client-side gate rather than verified watch time.
+  video.addEventListener('load', () => {
+    iframeLoaded = true;
+    state.textContent = 'Video embed loaded · muted background';
+    videoText.textContent = 'Video loaded. Keep this tab visible for 15 seconds.';
+    videoDot.classList.add('ready');
+    lastTick = Date.now();
+  });
+
+  function tick() {
+    const now = Date.now();
+    const elapsed = Math.min((now - lastTick) / 1000, 1);
+    lastTick = now;
+    if (!unlocked && iframeLoaded && !document.hidden && !gate.hidden) {
+      watchedSeconds = Math.min(15, watchedSeconds + elapsed);
+      updateProgress();
+    }
+    if (watchedSeconds < 15) window.setTimeout(tick, 200);
+  }
+  document.addEventListener('visibilitychange', () => { lastTick = Date.now(); });
+  document.body.style.overflow = 'hidden';
+  tick();
+
+  window.setTimeout(() => {
+    if (!iframeLoaded) {
+      state.innerHTML = 'Background embed may be blocked · <a href="https://www.youtube.com/watch?v=tVlKLpxyCBY" target="_blank" rel="noopener noreferrer">open video on YouTube ↗</a>';
+      videoText.textContent = 'Embed has not loaded yet. Try opening the video directly.';
+      videoDot.classList.remove('ready');
+    }
+  }, 6000);
 
   const popup = document.getElementById('guidePopup');
   const close = document.getElementById('close-popup');
@@ -138,6 +236,7 @@ footer{display:flex;justify-content:space-between;align-items:center;gap:15px;fl
   });
   document.addEventListener('keydown', event => {
     if (event.key === 'Escape') {
+      if (!gate.hidden && !gate.classList.contains('unlocked')) return;
       popup.hidden = true;
       sessionStorage.setItem('guideSeen', '1');
     }
