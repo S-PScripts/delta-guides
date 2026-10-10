@@ -115,7 +115,12 @@ Carlitos replaced him as moderator (which is fine; he is actually passionate), a
 
 Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (nyxolz has support manager role but doesn't do it anymore)
 
-10/09/2026 Track33 reinstated my Support role. However, Phxyzn decided to demote me right after. more soon
+10/09/2026: Track33 reinstated my Support role. However, Phxyzn decided to demote me right after:
+
+<img width="640" height="629" alt="image" src="https://github.com/user-attachments/assets/c76f41c8-745a-48bf-8a87-aa1e398c0629" />
+
+
+<img width="690" height="86" alt="Screenshot 2026-10-10 02 13 28" src="https://github.com/user-attachments/assets/359c9795-a801-4cdb-a26b-3fd4a2f07117" />
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
