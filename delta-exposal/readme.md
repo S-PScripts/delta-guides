@@ -1,6 +1,4 @@
 # Delta Executor - Internal Hell 
-**10/09/2026: Track33 reinstated my Support role. I will probably not abandon this README.md, but it will probably receive less updates hereafter.**
-
 I was a Support for the Delta Community Discord server between 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). The manager (whoise) even asked me for help once. I have made this README.md to discuss the administration of the Delta server - specifically, why it isn't good.
 
 ## 1. Alan
@@ -116,6 +114,8 @@ Carlitos replaced him as moderator (which is fine; he is actually passionate), a
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
 Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (nyxolz has support manager role but doesn't do it anymore)
+
+10/09/2026 Track33 reinstated my Support role. However, Phxyzn decided to demote me right after. more soon
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
