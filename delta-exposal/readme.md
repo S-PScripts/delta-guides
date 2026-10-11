@@ -113,14 +113,16 @@ Carlitos replaced him as moderator (which is fine; he is actually passionate), a
 
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
-Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (nyxolz has support manager role but doesn't do it anymore)
+Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (Nyxolz has the Support Manager role too, but doesn't do it anymore.)
 
-10/09/2026: Track33 reinstated my Support role. However, Phxyzn decided to demote me right after:
+10/09/2026: Track33 reinstated my Support role. However, Phxyzn decided to demote me right after (clown):
 
 <img width="640" height="629" alt="image" src="https://github.com/user-attachments/assets/c76f41c8-745a-48bf-8a87-aa1e398c0629" />
 
 
 <img width="690" height="86" alt="Screenshot 2026-10-10 02 13 28" src="https://github.com/user-attachments/assets/359c9795-a801-4cdb-a26b-3fd4a2f07117" />
+
+11/09/2026: nyxolz quit over the bullshit drama, carlitos is now the other Support Manager too. The future seems mid.
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
@@ -130,7 +132,7 @@ Track33, previously Support, was also promoted to moderator and is also a suppor
 - ylem isn't really active and doesn't do much, same with phxyzn
 
 This file was created on 17th September 2026.
-Created by ts2021, with nyxolz contributions too
+Created by ts2021, with nyxolz's contributions too
 
 <!-- ylem got dementia or smth (or on purpose?) cuz he forgot to unwhitelist me from delta testing apk/ipa website lmao -->
 <!-- delta-testing.net is link -->
