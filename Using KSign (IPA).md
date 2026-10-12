@@ -1,4 +1,6 @@
 # Using KSign (IPA)
+READ https://github.com/S-PScripts/delta-guides/blob/main/Installing%20KSign%20(IPA).md FIRST.
+
 ## Downloading the IPA:
 - Go to https://deltaexploits.dev or https://deltaexploits.gg
 - Download the Delta IPA
