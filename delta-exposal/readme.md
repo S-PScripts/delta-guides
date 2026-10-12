@@ -128,6 +128,8 @@ Kyson was a Support between September and January 2026. They were... an interest
 
 There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod (in my opinion).
 
+There's still a bit more about Delta which I haven't included here. I may try discussing other issues about it later on.
+
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
 - ownership is crazy
