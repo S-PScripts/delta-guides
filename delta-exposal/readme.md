@@ -108,7 +108,7 @@ Here's some more information about Alan. Before Alan quit, he was actually consi
 
 Alan, when he got demoted, got to have the "Retired Staff" role too. However, he ended up leaving the server (before rejoining on his alt account).
 
-## 5. The Present State
+## 5. The Present State - Several Role Changes
 Carlitos replaced him as moderator (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
 
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
@@ -122,7 +122,11 @@ Track33, previously Support, was also promoted to moderator and is also a suppor
 
 <img width="690" height="86" alt="Screenshot 2026-10-10 02 13 28" src="https://github.com/user-attachments/assets/359c9795-a801-4cdb-a26b-3fd4a2f07117" />
 
-11/09/2026: nyxolz quit over the bullshit drama, carlitos is now the other Support Manager too. The future seems mid.
+11/09/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. Alan and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator??
+
+Kyson was a Support between September and January 2026. They were... an interesting character, to say the least. Banned in January but returned in July, as he was a cool guy. That's also why he got given the Support role, even though he's not actually a Support.
+
+There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod (in my opinion).
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
