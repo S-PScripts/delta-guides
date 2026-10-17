@@ -42,7 +42,10 @@ Ylem (Manager) didn't object to Phxyzn's decision. I personally think that the r
 
 Nyxolz also stated the following: "everyone who applies is mostly an idiot or underage due to these preschool applications ♥️ (for example, deltauser/catlover04963 and most trials)"
 
-Ever since ylem created a Support Application channel (shortly after my demotion), lots more people were promoted. Luckily, they were helping rather well! Or were they? Turns out half of them got a warning for not doing enough proofs. A bunch ended up getting demoted. Also, despite there being 20 Supports, support forums are occasionally void of helpers.
+Ever since ylem created a Support Application channel (shortly after my demotion), lots more people were promoted. Luckily, they were helping rather well! Or were they? Turns out half of them got a warning for not doing enough proofs. A bunch ended up getting demoted. Also, despite there being around 20 Supports, support forums are still occasionally void of helpers. Here's the last example from 16/10/2026 where there was only one Senior Moderator online:
+
+insert image here
+
 
 ## 3. The Support Team - Shrinkage and Stupidity
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps fewer people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
