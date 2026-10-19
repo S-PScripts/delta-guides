@@ -96,7 +96,7 @@ Did you know that promotions are stupid? Here's why:
 Two of the mods (warxr and coolaid/colaid) did not even have any staff role for months. They just randomly got promoted sometime in July straight to Moderator as there were spots. I personally think that mods who don't care about Delta should not have the role.
 
 Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towards women:
-- Koda (a former support) got promoted from trial support to support in 2 days
+- Koda (a former support) got promoted from trial support to support in 3 days
 - It's supposed to be 2 weeks (even though I was really active, I went through the same)
 - When she quit, she got the "retired staff" role, when no other retired staff got one.
 - Layla kept getting her support role back just by asking
