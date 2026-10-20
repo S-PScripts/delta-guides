@@ -46,7 +46,8 @@ Ever since ylem created a Support Application channel (shortly after my demotion
 
 insert image here
 
-
+Also, ylem keeps locking #general and even #support-forums. Stop it.
+ 
 ## 3. The Support Team - Shrinkage and Stupidity
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps fewer people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
 
