@@ -8,4 +8,4 @@ I have converted most of my guides to .md files for easy reading, but you can al
 
 
 
-Site created by ChatGPT Thank You
+Site created by ChatGPT Thank You.
