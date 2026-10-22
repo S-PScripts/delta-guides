@@ -126,11 +126,12 @@ Track33, previously Support, was also promoted to moderator and is also a suppor
 
 <img width="690" height="86" alt="Screenshot 2026-10-10 02 13 28" src="https://github.com/user-attachments/assets/359c9795-a801-4cdb-a26b-3fd4a2f07117" />
 
-11/09/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. Alan and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator?? (nyxolz- i think this is good idea, kyson was here over a year ago then got banned. other then him not active 24/7 i think its a good decision)
+11/09/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. Alan and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator??
 
 Kyson was a Support between September and January 2026. They were... an interesting character, to say the least. Banned in January but returned in July, as he was a cool guy. That's also why he got given the Support role, even though he's not actually a Support.
 
-There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod (in my opinion).
+There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (nyxolz view: i think this is a good idea, kyson was here over a year ago then got banned. other then him not active 24/7 i think its a good decision)
+
 
 There's still a bit more about Delta which I haven't included here. I may try discussing other issues about it later on.
 
