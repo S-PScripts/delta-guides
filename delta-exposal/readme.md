@@ -52,14 +52,14 @@ Also, ylem keeps locking #general and even #support-forums. Stop it.
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps fewer people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
 
 Let me show you the current (non-Trial) Support List and their contributions:
-- Parrot emoji guy (knows good stuff about sideloading)
-  - 1 contribution to #solutions
-- Dark
-  - 1 contribution (his solution is one I found; not sure if it's independent, but let's say he found it himself)
 - track33 (now moderator. They were active once, but are now quite inactive)
   - 3 contributions to #solutions
-- carlitos (now moderator)
-  - 6 or so contributions (once I got demoted and deleted my solutions, he started adding them to replace them. Maybe inspired by mine)
+- carlitos (now senior moderator)
+  - 7 or so contributions (once I got demoted and deleted my solutions, he started adding them to replace them. Maybe inspired by mine)
+- synx (now moderator)
+  - 3 contributions to #solutions
+- loading...
+  - 1 contribution to #solutions
 - Every other support has made no contributions
   
 There are a couple from nyxolz and alan too, as well as some Supports that are now demoted. However, that's really all. I made about 30 in
@@ -132,8 +132,7 @@ Kyson was a Support between September and January 2026. They were... an interest
 
 There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (nyxolz view: i think this is a good idea, kyson was here over a year ago then got banned. other then him not active 24/7 i think its a good decision)
 
-
-There's still a bit more about Delta which I haven't included here. I may try discussing other issues about it later on.
+26/10/2026: carlitos is now senior mod as kyson got removed, and synx was promoted to mod. Makes sense.
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
