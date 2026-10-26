@@ -65,7 +65,7 @@ Let me show you the current (non-Trial) Support List and their contributions:
 There are a couple from nyxolz and alan too, as well as some Supports that are now demoted. However, that's really all. I made about 30 in
 total whilst I was a support.
 
-I became Support to fix the #solutions channel (since it was missing a ton of information, and some had terrible wording/were unclear). Many Supports used my solutions, as they weren't shit. My solutions may have helped them to not get demoted, even. However, I won't say it like that's the gospel, as I'm not trying to be a narcissist.
+I became Support to fix the #solutions channel (since it was missing a ton of information, and some had terrible wording/were unclear). Many Supports used my solutions, as they weren't shit. My solutions may have helped them to not get demoted, even. However, I won't say it's the gospel, as I'm not trying to be a narcissist.
 
 Here is another Support stating that my solutions helped them. This applies to many others:
 <img width="563" height="191" alt="image" src="https://github.com/user-attachments/assets/3e9db09b-7120-4587-800b-0e966ffdf1dd" />
@@ -130,9 +130,9 @@ Track33, previously Support, was also promoted to moderator and is also a suppor
 
 Kyson was a Support between September and January 2026. They were... an interesting character, to say the least. Banned in January but returned in July, as he was a cool guy. That's also why he got given the Support role, even though he's not actually a Support.
 
-There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (nyxolz view: i think this is a good idea, kyson was here over a year ago then got banned. other then him not active 24/7 i think its a good decision)
+There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (Nyxolz's view: I think this is a good idea; Kyson was here over a year ago, then got banned. Other than him not being active 24/7, I think it's a good decision)
 
-26/10/2026: carlitos is now senior mod as kyson got removed, and synx was promoted to mod. Makes sense.
+26/10/2026: carlitos is now a Senior Moderator as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
 # Nyxolz's summarisation
 - delta is dead (chat is drier by the day)
