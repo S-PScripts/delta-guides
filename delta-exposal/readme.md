@@ -134,7 +134,7 @@ There is probably some bias here to give him Senior Mod. He's not that involved 
 
 26/10/2026: carlitos is now a Senior Moderator as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
-# Nyxolz's summarisation
+# nyxolz's summarisation
 - delta is dead (chat is drier by the day)
 - ownership is crazy
 - everyone is inactive or has quit
