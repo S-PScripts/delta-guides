@@ -1,5 +1,5 @@
 # Delta Executor - Hell 
-I was a Support for the Delta Community Discord server between 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). The manager (whoise) even asked me for help once. I have made this README.md to discuss the administration of the Delta server - specifically, why it isn't good.
+I was a Support for the Delta Community Discord server between 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). One of the Krnl managers (whoise) even asked me for help once. I have made this README.md mainly to discuss the administration of the Delta server - specifically, why it isn't good. 
 
 ## 1. Alan
 
@@ -112,7 +112,7 @@ Here's some more information about Alan. Before Alan quit, he was actually consi
 
 Alan, when he got demoted, got to have the "Retired Staff" role too. However, he ended up leaving the server (before rejoining on his alt account).
 
-## 5. The Present State - Several Role Changes
+## 5. The Present Internal State - Several Role Changes
 Carlitos replaced him as moderator (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
 
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
@@ -132,7 +132,44 @@ Kyson was a Support between September and January 2026. They were... an interest
 
 There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (Nyxolz's view: I think this is a good idea; Kyson was here over a year ago, then got banned. Other than him not being active 24/7, I think it's a good decision)
 
-26/10/2026: carlitos is now a Senior Moderator as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
+26/10/2026: Carlitos is now a Senior Moderator as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
+
+30/10/2026: Synx got demoted for some reason.
+
+## 6. Delta Detections
+The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 15th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
+
+Anyway, Delta was actually detected in previous versions; people got flagged and Roblox banned people on the dates above as banwaves. After the Oct 23rd banwave, I decided to use the latest version (v743) only on a brand-new alt account. I ended up getting banned on the 30th of October. There was a Roblox event (The Hollow) at this time, and the anti-cheat tends to be better/improved around this period (and also when banwaves happen). However, it is still scummy that Delta does not warn its users not to exploit when events are happening. 
+
+The Delta developers always claim that their tool is "Still Undetected" in their changelog in the main server, when they obviously have no idea if that will be the case. Perhaps they mean "Still Undetected by Roblox games, but not Roblox themselves", but I doubt that. The only place where they say that Delta can be detected is on the website.
+
+The Delta developers ended up making v743-02, which I am not sure fixes the detection.
+
+## 7. Non-Existent Transparency
+1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it). The developers also haven't properly talked about Volt (https://voltbz.net) publicly; they let us recommend it to people, but don't give any more information. They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
+   
+2. Bogie (Platoboost/Delta keysystem owner) does not provide replacements for "Lifetime" keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
+
+3. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
+
+4. concre.te is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
+
+5. Lxnny (on his alt account, desiderium) has promoted Robux gambling websites like RoStake, especially in #support-chat.
+
+6. In testing builds of Delta, it knows how many times you join games. It also sends crashes to the developers. Not only this, Delta is able to view all your apps (so it can ban you if you have any key bypasser apps). Who knows what else it can do?
+
+## 8. Other Shit
+1. Ylem/bogie have never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
+
+2. Swears have generally banned, even to the Supports since early 2026, but the developers (especially mlemix (on his alt, pibbster) and bogie) like saying them. A bit unfair! (Oh, and, they have said stuff like "jeet", "panjeet", "downie faggot', "mongoloid" and the n-word).
+
+3. You can't send links in channels except https://deltaexploits.gg. Not even the khoindvn website.
+
+4. Warxr (Moderator) is flagged by TASE (https://moco-co.org/). He has never appealed that for some reason.
+
+5. #general is locked for extended periods when Delta updates, which is rather irritating. Worse, sometimes #support-forums is also locked entirely. This is very annoying if you want to get help. The Staff can also delete posts and lock them; this is sometimes abused when Delta is being criticised (such as it being detected at times).
+
+6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
 # nyxolz's summarisation
 - delta is dead (chat is drier by the day)
