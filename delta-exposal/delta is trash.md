@@ -1,4 +1,4 @@
-# delta is shit
+# nyxolz: delta is shit
 i’m tired of acting like delta isn’t a trash executor.  <br>
 while using delta over the past year i’ve been detected 5 times,   <br>
 only reason ive kept using it is because i was staff and had a lifetime key.  <br>
