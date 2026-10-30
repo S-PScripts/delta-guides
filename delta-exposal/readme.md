@@ -109,7 +109,7 @@ Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towar
 - Layla kept getting her support role back just by asking
 - atedrvgs (<3) was able to stay as support after several chances
 
-nyxolz should have a promotion, but that won't happen. The maximum is Senior Moderator unless you're friends with mlemix. Or Ylem, as Phxyzn is Staff Manager.
+nyxolz should have had a promotion, but that didn't happen. The maximum is Senior Moderator unless you're friends with mlemix. Or Ylem, as Phxyzn is Staff Manager.
 
 nyxolz said the following: i agree i should be higher, i already lock/unlock some channels and fix perms as well as promoting/demoting staff like i demoted alan and promoted reflex to senior kinda (it was my choice either sen or reflex so i already make those decisions, just make me staff manager or admin atp) 
 
@@ -117,6 +117,14 @@ Here's some more information about Alan. Before Alan quit, he was actually consi
 <img width="762" height="60" alt="image" src="https://github.com/user-attachments/assets/8223dd4f-4472-4726-a3f4-798cca702e90" />
 
 Alan, when he got demoted, got to have the "Retired Staff" role too. However, he ended up leaving the server (before rejoining on his alt account).
+
+Extra info from nyxolz:
+<img width="935" height="401" alt="Screenshot 2026-10-30 21 57 13" src="https://github.com/user-attachments/assets/e513a8e7-9ff0-470d-952a-fc3388c427d2" />
+<img width="935" height="455" alt="Screenshot 2026-10-30 21 57 22" src="https://github.com/user-attachments/assets/d2ce9ce6-57c1-4a99-9bce-3224079f5031" />
+<img width="935" height="433" alt="Screenshot 2026-10-30 21 57 32" src="https://github.com/user-attachments/assets/c63ad910-1396-4610-a91a-677f677b8a30" />
+<img width="935" height="501" alt="Screenshot 2026-10-30 21 57 50" src="https://github.com/user-attachments/assets/0e66f611-76ce-4af6-9e71-987e0b600fad" />
+<img width="935" height="501" alt="Screenshot 2026-10-30 21 57 58" src="https://github.com/user-attachments/assets/d119e5eb-8c58-4912-86e4-5e4408c1f808" />
+<img width="935" height="400" alt="Screenshot 2026-10-30 21 58 07" src="https://github.com/user-attachments/assets/0e312367-1b92-4d00-9755-86c6953c3765" />
 
 ## 5. The Present Internal State - Several Role Changes
 Carlitos replaced him as moderator (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
