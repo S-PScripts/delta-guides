@@ -193,6 +193,8 @@ The Delta developers ended up making v743-02, which I am not sure fixes the dete
 
 6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
+7. Mlemix has called Potassium "skidded" and "detected" in #support-chat. 
+ 
 ## nyxolz's summarisation
 - delta is dead (chat is drier by the day)
 - ownership is crazy
