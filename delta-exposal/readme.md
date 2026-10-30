@@ -21,9 +21,9 @@ nyxolz unfortunately decided to keep him on the team, which I was a bit pissed a
 
 Here are three screenshots (one Support, one former Support, one Trial Support) that share my opinion. You may be able to guess who they are, but I will not be the one telling you that! <!-- first image is probably bias; solstice supports pedophiles -->
 
-<img src="Screenshot_20260916_163152_Discord.jpg" width="50%">
-<img src="Screenshot_20260916_163135_Discord.jpg" width="50%">
-<img src="Screenshot_20260916_163201_Discord.jpg" width="50%">
+<img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163152_Discord.jpg?raw=true" width="50%">
+<img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163135_Discord.jpg?raw=true" width="50%">
+<img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163201_Discord.jpg?raw=true" width="50%">
 
 One of the other senior moderators (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan.
 
