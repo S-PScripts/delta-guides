@@ -189,11 +189,11 @@ The Delta developers ended up making v743-02, which I am not sure fixes the dete
 
 4. Warxr (Senior Moderator) is flagged by TASE (https://moco-co.org/). He has never appealed that for some reason.
 
-5. #general is locked by Ylem for extended periods when Delta updates, which is rather irritating. Worse, sometimes #support-forums is also locked entirely. This is very annoying if you want to get help. The Staff can also delete posts and lock them; this is sometimes abused when Delta is being criticised (such as it being detected at times).
+5. The #general channel is locked by Ylem for extended periods when Delta updates, which is rather irritating. Worse, sometimes #support-forums is also locked entirely. This is very annoying if you want to get help. The Staff can also delete posts and lock them; this is sometimes abused when Delta is being criticised (such as it being detected at times).
 
 6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
-# nyxolz's summarisation
+## nyxolz's summarisation
 - delta is dead (chat is drier by the day)
 - ownership is crazy
 - everyone is inactive or has quit
