@@ -120,6 +120,8 @@ Alan, when he got demoted, got to have the "Retired Staff" role too. However, he
 
 Extra info from nyxolz:
 <img width="935" height="401" alt="Screenshot 2026-10-30 21 57 13" src="https://github.com/user-attachments/assets/e513a8e7-9ff0-470d-952a-fc3388c427d2" />
+(oh, what's funny is that they seemingly forgot about Rotector/TASE. I used the TASE bot on the Supports in June and found two that were in more than 15 condo servers (Light + Mehok).)
+
 <img width="935" height="455" alt="Screenshot 2026-10-30 21 57 22" src="https://github.com/user-attachments/assets/d2ce9ce6-57c1-4a99-9bce-3224079f5031" />
 <img width="935" height="433" alt="Screenshot 2026-10-30 21 57 32" src="https://github.com/user-attachments/assets/c63ad910-1396-4610-a91a-677f677b8a30" />
 <img width="935" height="501" alt="Screenshot 2026-10-30 21 57 50" src="https://github.com/user-attachments/assets/0e66f611-76ce-4af6-9e71-987e0b600fad" />
