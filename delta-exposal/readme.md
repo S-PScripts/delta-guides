@@ -164,26 +164,26 @@ The Delta developers ended up making v743-02, which I am not sure fixes the dete
  
 <img width="819" height="192" alt="image" src="https://github.com/user-attachments/assets/f5c179a4-d5c8-433b-8d7c-1dcfb41a54a8" />
 
-2. The developers haven't properly talked about Volt (https://voltbz.net) publicly; they let us recommend it to people, but don't give any more information. They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
+2. The developers haven't properly talked about Volt (https://voltbz.net) publicly; they let the Supports recommend it to people, but don't give any more information (they are in the Volt server too). They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
 
-2. Bogie (Platoboost/Delta keysystem owner) does not provide replacements for "Lifetime" keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
+3. Bogie (Platoboost/Delta keysystem owner) does not provide replacements for "Lifetime" keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
 
 <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7c61605d-a5c2-47b3-99f5-b538c8dfaeb4" />
 
-3. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
+4. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
 
-4. concre.te is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
+5. concre.te is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
 
 <img width="525" height="640" alt="image" src="https://github.com/user-attachments/assets/35ad39c5-1a3d-402d-8243-c29681f2f241" />
 
-5. Lxnny (on his alt account, desiderium) has promoted Robux gambling websites like RoStake, especially in #support-chat.
+6. Lxnny (on his alt account, desiderium) has promoted Robux gambling websites like RoStake, especially in #support-chat.
 
-6. In testing builds of Delta, it knows how many times you join games. It also sends crashes to the developers. Not only this, Delta is able to view all your apps (so it can ban you if you have any key bypasser apps). Who knows what else it can do?
+7. In testing builds of Delta, it knows how many times you join games. It also sends crashes to the developers. Not only this, Delta is able to view all your apps (so it can ban you if you have any key bypasser apps). Who knows what else it can do?
 
-## 8. Other Shit
+## 8. Other Stuff and Shit
 1. Ylem/bogie have never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
 
-2. Swears have generally banned, even to the Supports since early 2026, but the developers (especially mlemix (on his alt, pibbster) and bogie) like saying them. A bit unfair! (Oh, and, they have said stuff like "jeet", "panjeet", "downie faggot', "mongoloid" and the n-word).
+2. Swears have generally banned, even to the Supports since early 2026, but the developers (especially mlemix (on his alt, pibbster) and bogie) like saying them. A bit unfair! (Oh, and, they have said stuff like "jeet", "panjeet", "downie faggot", "mongoloid" and the n-word).
 
 3. You can't send links in channels except https://deltaexploits.gg. Not even the khoindvn website.
 
@@ -193,8 +193,8 @@ The Delta developers ended up making v743-02, which I am not sure fixes the dete
 
 6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
-7. Mlemix has called Potassium "skidded" and "detected" in #support-chat. 
- 
+7. Mlemix has called Potassium "skidded" and "detected" in #support-chat. Bogie is in the Kawaii server; [Kawaii](https://lua.paramore.su/) is a paid Android executor that is superior to Delta in most ways.
+
 ## nyxolz's summarisation
 - delta is dead (chat is drier by the day)
 - ownership is crazy
