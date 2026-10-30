@@ -35,18 +35,16 @@ Ylem (Manager) didn't object to Phxyzn's decision. I personally think that the r
 <img width="640" height="613" alt="image" src="https://github.com/user-attachments/assets/09815ab3-76bc-4661-957a-26374d55ec53" />
 
 
-<img width="470" height="31" alt="image" src="https://github.com/user-attachments/assets/835218cf-6661-41c2-aa88-bc66520ff088" />
+<img width="470" height="31" alt="image" src="https://github.com/user-attachments/assets/835218cf-6661-41c2-aa88-bc66520ff088" /> <br>
 
 
-<img width="470" height="49" alt="image" src="https://github.com/user-attachments/assets/4b1fa22f-d027-415f-af5f-201f3f6866bf" />
+<img width="470" height="49" alt="image" src="https://github.com/user-attachments/assets/4b1fa22f-d027-415f-af5f-201f3f6866bf" /> <br>
 
 Nyxolz also stated the following: "everyone who applies is mostly an idiot or underage due to these preschool applications ♥️ (for example, deltauser/catlover04963 and most trials)"
 
-Ever since ylem created a Support Application channel (shortly after my demotion), lots more people were promoted. Luckily, they were helping rather well! Or were they? Turns out half of them got a warning for not doing enough proofs. A bunch ended up getting demoted. Also, despite there being around 20 Supports, support forums are still occasionally void of helpers. Here's the last example from 16/10/2026 where there was only one Senior Moderator online:
+Ever since ylem created a Support Application channel (shortly after my demotion), lots more people were promoted. Luckily, they were helping rather well! Or were they? Turns out half of them got a warning for not doing enough proofs. A bunch ended up getting demoted. Also, despite there being around 20 Supports, support forums are still occasionally void of helpers. Here is an example (this isn't a good example, but if you look hard enough you can find no one online):
 
-insert image here
-
-Also, ylem keeps locking #general and even #support-forums. Stop it.
+<img width="174" height="220" alt="image" src="https://github.com/user-attachments/assets/ecfc15ab-8a04-4015-89dd-7535fbbcc0f5" />
  
 ## 3. The Support Team - Shrinkage and Stupidity
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps fewer people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
@@ -60,6 +58,14 @@ Let me show you the current (non-Trial) Support List and their contributions:
   - 3 contributions to #solutions
 - loading...
   - 1 contribution to #solutions
+- ash
+  - 3 contributions to #solutions... except one of them is actually mine...
+ 
+ <img width="598" height="438" alt="image" src="https://github.com/user-attachments/assets/6d461528-e2fd-49c8-9e2b-7e0b670ed287" />
+
+Mine: https://github.com/S-PScripts/delta-guides/blob/main/How%20to%20update%20Delta%20(iOS).md
+
+
 - Every other support has made no contributions
   
 There are a couple from nyxolz and alan too, as well as some Supports that are now demoted. However, that's really all. I made about 30 in
@@ -146,13 +152,21 @@ The Delta developers always claim that their tool is "Still Undetected" in their
 The Delta developers ended up making v743-02, which I am not sure fixes the detection.
 
 ## 7. Non-Existent Transparency
-1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it). The developers also haven't properly talked about Volt (https://voltbz.net) publicly; they let us recommend it to people, but don't give any more information. They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
-   
+1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it). It is no longer a partner as the delta-executor.com server promoted a key bypasser, yet Mystery Man (owner of the website) is still in the real Delta server. He has promoted his "Delta iOS Premium" a few times, which is probably a scam/doesn't work.
+ 
+<img width="819" height="192" alt="image" src="https://github.com/user-attachments/assets/f5c179a4-d5c8-433b-8d7c-1dcfb41a54a8" />
+
+2. The developers haven't properly talked about Volt (https://voltbz.net) publicly; they let us recommend it to people, but don't give any more information. They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
+
 2. Bogie (Platoboost/Delta keysystem owner) does not provide replacements for "Lifetime" keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
+
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7c61605d-a5c2-47b3-99f5-b538c8dfaeb4" />
 
 3. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
 
 4. concre.te is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
+
+<img width="525" height="640" alt="image" src="https://github.com/user-attachments/assets/35ad39c5-1a3d-402d-8243-c29681f2f241" />
 
 5. Lxnny (on his alt account, desiderium) has promoted Robux gambling websites like RoStake, especially in #support-chat.
 
@@ -165,9 +179,9 @@ The Delta developers ended up making v743-02, which I am not sure fixes the dete
 
 3. You can't send links in channels except https://deltaexploits.gg. Not even the khoindvn website.
 
-4. Warxr (Moderator) is flagged by TASE (https://moco-co.org/). He has never appealed that for some reason.
+4. Warxr (Senior Moderator) is flagged by TASE (https://moco-co.org/). He has never appealed that for some reason.
 
-5. #general is locked for extended periods when Delta updates, which is rather irritating. Worse, sometimes #support-forums is also locked entirely. This is very annoying if you want to get help. The Staff can also delete posts and lock them; this is sometimes abused when Delta is being criticised (such as it being detected at times).
+5. #general is locked by Ylem for extended periods when Delta updates, which is rather irritating. Worse, sometimes #support-forums is also locked entirely. This is very annoying if you want to get help. The Staff can also delete posts and lock them; this is sometimes abused when Delta is being criticised (such as it being detected at times).
 
 6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
