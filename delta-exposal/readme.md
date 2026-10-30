@@ -1,5 +1,5 @@
 # Delta Executor - Hell 
-I was a Support for the Delta Community Discord server between 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). One of the Krnl managers (whoise) even asked me for help once. I have made this README.md mainly to discuss the administration of the Delta server - specifically, why it isn't good. 
+I was a Support for the Delta Community Discord server from 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). One of the Krnl managers (whoise) even asked me for help once. I have made this README.md mainly to discuss the administration of the Delta server - specifically, why it isn't good. (ignore the tense problems, saar)
 
 ## 1. Alan
 
@@ -7,7 +7,7 @@ Alan was a Support Manager and Moderator of the server, up until 7th October 202
 
 I got demoted for "NSFW". If you want to see exactly what I did to get demoted, press this link. Then, you can also witness Alan's ignorance and idiocy: https://discord.com/channels/1279547031945220147/1294274202320244777/1558141382386786335
 
-Alan tried to deflect by showing how nyxolz agreed with him (she is a senior mod; his superior), but that's because she's busy with [Prism](https://discord.gg/prismmacos) and doesn't check Delta that much. Alan KNOWS that.
+Alan tried to deflect by showing how nyxolz agreed with him (she was a senior mod; his superior), but that's because she's busy with [Prism](https://discord.gg/prismmacos) and doesn't check Delta that much. Alan KNOWS that.
 
 <img width="434" height="640" alt="image" src="https://github.com/user-attachments/assets/f894ecdd-1502-4c47-86c3-28e961c58312" />
 
