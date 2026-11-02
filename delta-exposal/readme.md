@@ -159,7 +159,7 @@ Anyway, Delta was actually detected in previous versions; people got flagged and
 
 The Delta developers always claim that their tool is "Still Undetected" in their changelog in the main server, when they obviously have no idea if that will be the case. Perhaps they mean "Still Undetected by Roblox games, but not Roblox themselves", but I doubt that. The only place where they say that Delta can be detected is on the website.
 
-The Delta developers ended up making v743-02, which I am not sure fixes the detection.
+The Delta developers ended up making v743-02, which I used less than 5 times on a brand new alt. Yet that ended up getting banned too (2nd November).
 
 ## 7. Non-Existent Transparency
 1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it). It is no longer a partner as the delta-executor.com server promoted a key bypasser, yet Mystery Man (owner of the website) is still in the real Delta server. He has promoted his "Delta iOS Premium" a few times, which is probably a scam/doesn't work.
