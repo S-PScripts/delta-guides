@@ -133,7 +133,7 @@ Carlitos replaced him as moderator (which is fine; he is actually passionate), a
 
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
-Track33, previously Support, was also promoted to moderator and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (Nyxolz has the Support Manager role too, but doesn't do it anymore.)
+Track33, previously Support, was also promoted to moderator (as Reflex and sen left the Staff Team) and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (Nyxolz has the Support Manager role too, but doesn't do it anymore.)
 
 10/09/2026: Track33 reinstated my Support role. However, Phxyzn decided to demote me right after (clown):
 
@@ -144,7 +144,7 @@ Track33, previously Support, was also promoted to moderator and is also a suppor
 
 11/09/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. Alan and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator??
 
-Kyson was a Support between September and January 2026. They were... an interesting character, to say the least. Banned in January but returned in July, as he was a cool guy. That's also why he got given the Support role, even though he's not actually a Support.
+Kyson was a Support between September 2025 and January 2026. They were... an interesting character, to say the least. Banned in January but returned in July, as he was a cool guy. That's also why he got given the Support role, even though he's not actually a Support.
 
 There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (Nyxolz's view: I think this is a good idea; Kyson was here over a year ago, then got banned. Other than him not being active 24/7, I think it's a good decision)
 
