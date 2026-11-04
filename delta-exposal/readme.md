@@ -168,9 +168,15 @@ The Delta developers ended up making v743-02, which I used less than 5 times on 
 
 2. The developers haven't properly talked about Volt (https://voltbz.net) publicly; they let the Supports recommend it to people, but don't give any more information (they are in the Volt server too). They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
 
-3. "Lifetime" keys tend to expire. I did try asking bogie (Platoboost/Delta keysystem owner) about that in July, when I believed he managed keys, but he didn't state why. He only said he didn't manage the keys on 4th November, despite being pinged/DMed (he said his DMs were off) _several times_ about the keys over the past year by tens of people.
+3. "Lifetime" keys tend to expire. I did try asking bogie (Platoboost/Delta keysystem owner) about that in July 2026, when I believed he managed keys, but he didn't state why. He only said he didn't manage the keys on _4th November_, despite being pinged/DMed (he said his DMs were off) _several times_ about the keys over the past year by tens of people. I'm guessing he's saying that the resellers should've marketed the keys they were given by the admins (which admins? I have no idea.) as a 1-year key, and also saying that the people who bought them should've thought more carefully, as it was not coming from the developers directly. It's still pretty scummy regardless.
 
 <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7c61605d-a5c2-47b3-99f5-b538c8dfaeb4" />
+
+<img width="320" height="116" alt="image" src="https://github.com/user-attachments/assets/18f678ac-429f-4b2c-a5b6-3dfab454d793" />
+
+Mlemix (on his alt pibbster) also gave this very vague response to one of the people:
+
+<img width="553" height="83" alt="image" src="https://github.com/user-attachments/assets/f8fc1ed6-b712-482e-b144-29895c092b2f" />
 
 4. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
 
