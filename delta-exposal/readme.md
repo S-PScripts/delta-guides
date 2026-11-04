@@ -168,7 +168,7 @@ The Delta developers ended up making v743-02, which I used less than 5 times on 
 
 2. The developers haven't properly talked about Volt (https://voltbz.net) publicly; they let the Supports recommend it to people, but don't give any more information (they are in the Volt server too). They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
 
-3. "Lifetime" keys tend to expire. I did try asking bogie (Platoboost/Delta keysystem owner) about that in July, when I believed he managed keys, but he didn't state why. He only said he didn't manage the keys on 4th November, despite being pinged/DMed _several times_ about the keys over the past year by tens of people.
+3. "Lifetime" keys tend to expire. I did try asking bogie (Platoboost/Delta keysystem owner) about that in July, when I believed he managed keys, but he didn't state why. He only said he didn't manage the keys on 4th November, despite being pinged/DMed (he said his DMs were off) _several times_ about the keys over the past year by tens of people.
 
 <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7c61605d-a5c2-47b3-99f5-b538c8dfaeb4" />
 
