@@ -150,7 +150,7 @@ There is probably some bias here to give him Senior Mod. He's not that involved 
 
 26/10/2026: Carlitos is now a Senior Moderator as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
-30/10/2026: Synx got demoted for some reason.
+30/10/2026: Synx <!-- dickrider -->got demoted for some reason.
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 15th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
@@ -168,7 +168,7 @@ The Delta developers ended up making v743-02, which I used less than 5 times on 
 
 2. The developers haven't properly talked about Volt (https://voltbz.net) publicly; they let the Supports recommend it to people, but don't give any more information (they are in the Volt server too). They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
 
-3. Bogie (Platoboost/Delta keysystem owner) does not provide replacements for "Lifetime" keys that expire, which is a bit scummy. I did try asking him about it, but he didn't state why.
+3. "Lifetime" keys tend to expire. I did try asking bogie (Platoboost/Delta keysystem owner) about that in July, when I believed he managed keys, but he didn't state why. He only said he didn't manage the keys on 4th November, despite being pinged/DMed _several times_ about the keys over the past year by tens of people.
 
 <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7c61605d-a5c2-47b3-99f5-b538c8dfaeb4" />
 
@@ -183,7 +183,7 @@ The Delta developers ended up making v743-02, which I used less than 5 times on 
 7. In testing builds of Delta, it knows how many times you join games. It also sends crashes to the developers. Not only this, Delta is able to view all your apps (so it can ban you if you have any key bypasser apps). Who knows what else it can do?
 
 ## 8. Other Stuff and Shit
-1. Ylem/bogie have never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
+1. Ylem has never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
 
 2. Swears have generally banned, even to the Supports since early 2026, but the developers (especially mlemix (on his alt, pibbster) and bogie) like saying them. A bit unfair! (Oh, and, they have said stuff like "jeet", "panjeet", "downie faggot", "mongoloid" and the n-word).
 
@@ -195,7 +195,7 @@ The Delta developers ended up making v743-02, which I used less than 5 times on 
 
 6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
-7. Mlemix has called Potassium "skidded" and "detected" in #support-chat. Bogie is in the Kawaii server; [Kawaii](https://lua.paramore.su/) is a paid Android executor that is superior to Delta in most ways.
+7. Mlemix has called Potassium "skidded" and "detected" in #support-chat (ironic?). Bogie is in the Kawaii server; [Kawaii](https://lua.paramore.su/) is a paid Android executor that is superior to Delta in most ways.
 
 ## nyxolz's summarisation
 - delta is dead (chat is drier by the day)
