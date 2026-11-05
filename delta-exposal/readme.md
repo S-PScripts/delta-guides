@@ -25,7 +25,7 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 <img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163135_Discord.jpg?raw=true" width="50%">
 <img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163201_Discord.jpg?raw=true" width="50%">
 
-One of the other senior moderators (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan.
+One of the other senior mods (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan.
 
 ## 2. Ylem and Phxyzn
 Phxyzn is the Staff Manager of the server. He is the guy who updated the support application in early 2026 to have ZERO questions about Delta troubleshooting (initially, it wasn't like that). NOTE: Phxyzn made the first support application too, back in November 2025. I assume it was updated due to the server dying and losing intelligent people. Also, in case you think that I'm retarded, Phxyzn said in #support-chat (when I completed the application even though I was banned at the time) that I got nearly everything right on THAT old application. Keep in mind that I wasn't as good at helping at the time; I didn't have 30 guides as I have now.
@@ -114,7 +114,7 @@ nyxolz should have had a promotion, but that didn't happen. The maximum is Senio
 
 nyxolz said the following: i agree i should be higher, i already lock/unlock some channels and fix perms as well as promoting/demoting staff like i demoted alan and promoted reflex to senior kinda (it was my choice either sen or reflex so i already make those decisions, just make me staff manager or admin atp) 
 
-Here's some more information about Alan. Before Alan quit, he was actually considered to be a senior moderator by Ylem. Ridiculous:
+Here's some more information about Alan. Before Alan quit, he was actually considered to be a senior mod by Ylem. Ridiculous:
 <img width="762" height="60" alt="image" src="https://github.com/user-attachments/assets/8223dd4f-4472-4726-a3f4-798cca702e90" />
 
 Alan, when he got demoted, got to have the "Retired Staff" role too. However, he ended up leaving the server (before rejoining on his alt account).
@@ -129,6 +129,7 @@ Extra info from nyxolz:
 <img width="935" height="501" alt="Screenshot 2026-10-30 21 57 58" src="https://github.com/user-attachments/assets/d119e5eb-8c58-4912-86e4-5e4408c1f808" />
 <img width="935" height="400" alt="Screenshot 2026-10-30 21 58 07" src="https://github.com/user-attachments/assets/0e312367-1b92-4d00-9755-86c6953c3765" />
 
+05/11/2026: track33 (Moderator) spammed the n-word in nyxolz's DMs and only got banned today. Another example of ylem being slow:
 <img width="768" height="655" alt="image" src="https://github.com/user-attachments/assets/038ba97e-81e4-46eb-9f23-638a04b82cf0" />
 <img width="296" height="640" alt="image" src="https://github.com/user-attachments/assets/aefce07a-6560-4699-bb74-f38451e22872" />
 
@@ -153,7 +154,7 @@ Kyson was a Support between September 2025 and January 2026. They were... an int
 
 There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (Nyxolz's view: I think this is a good idea; Kyson was here over a year ago, then got banned. Other than him not being active 24/7, I think it's a good decision)
 
-26/10/2026: Carlitos is now a Senior Moderator as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
+26/10/2026: Carlitos is now a Senior Mod as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
 30/10/2026: Synx got demoted for some reason. <!-- this guy is a dickrider, also saw a screenshot of him being racist in another server -->
 
@@ -200,7 +201,7 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 
 3. You can't send links in channels except https://deltaexploits.gg. Not even the khoindvn website.
 
-4. Warxr (Senior Moderator) is flagged by TASE (https://moco-co.org/). He has never appealed that for some reason.
+4. Warxr (Senior Mod) is flagged by TASE (https://moco-co.org/). He has never appealed that for some reason.
 
 5. The #general channel is locked by Ylem for extended periods when Delta updates, which is rather irritating. Worse, sometimes #support-forums is also locked entirely. This is very annoying if you want to get help. The Staff can also delete posts and lock them; this is sometimes abused when Delta is being criticised (such as it being detected at times).
 
