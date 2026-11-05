@@ -128,8 +128,10 @@ Extra info from nyxolz:
 <img width="935" height="501" alt="Screenshot 2026-10-30 21 57 58" src="https://github.com/user-attachments/assets/d119e5eb-8c58-4912-86e4-5e4408c1f808" />
 <img width="935" height="400" alt="Screenshot 2026-10-30 21 58 07" src="https://github.com/user-attachments/assets/0e312367-1b92-4d00-9755-86c6953c3765" />
 
+05/11/2026: track33 (Moderator) spammed the n-word in nyxolz's DMs.
+
 ## 5. The Present Internal State - Several Role Changes
-Carlitos replaced him as moderator (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
+Carlitos replaced Alan (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
 
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
@@ -150,14 +152,14 @@ There is probably some bias here to give him Senior Mod. He's not that involved 
 
 26/10/2026: Carlitos is now a Senior Moderator as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
-30/10/2026: Synx <!-- dickrider -->got demoted for some reason.
+30/10/2026: Synx got demoted for some reason. <!-- this guy is a dickrider, also saw a screenshot of him being racist in another server -->
 
 ## 6. Delta Detections
-The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 15th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
+The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
 
 Anyway, Delta was actually detected in previous versions; people got flagged and Roblox banned people on the dates above as banwaves. After the Oct 23rd banwave, I decided to use the latest version (v743) only on a brand-new alt account. I ended up getting banned on the 30th of October. There was a Roblox event (The Hollow) at this time, and the anti-cheat tends to be better/improved around this period (and also when banwaves happen). However, it is still scummy that Delta does not warn its users not to exploit when events are happening. 
 
-The Delta developers always claim that their tool is "Still Undetected" in their changelog in the main server, when they obviously have no idea if that will be the case. Perhaps they mean "Still Undetected by Roblox games, but not Roblox themselves", but I doubt that. The only place where they say that Delta can be detected is on the website.
+The Delta developers always claim that their tool is "Still Undetected" in their changelog in the main server, when they obviously have no idea if that will be the case. Perhaps they mean "Still Undetected by Roblox games, but not Roblox itself", but I doubt that. The only place where they say that Delta can be detected is on the website.
 
 The Delta developers ended up making v743-02, which I used less than 5 times on a brand new alt. Yet that ended up getting banned too (2nd November).
 
@@ -168,7 +170,7 @@ The Delta developers ended up making v743-02, which I used less than 5 times on 
 
 2. The developers haven't properly talked about Volt (https://voltbz.net) publicly; they let the Supports recommend it to people, but don't give any more information (they are in the Volt server too). They also send some of its docs to testers (http://docs.voltbz.net/), as Delta doesn't have its own.
 
-3. "Lifetime" keys tend to expire. I did try asking bogie (Platoboost/Delta keysystem owner) about that in July 2026, when I believed he managed keys, but he didn't state why. He only said he didn't manage the keys on _4th November_, despite being pinged/DMed (he said his DMs were off) _several times_ about the keys over the past year by tens of people. I'm guessing he's saying that the resellers should've marketed the keys they were given by the admins (which admins? I have no idea.) as a 1-year key, and also saying that the people who bought them should've thought more carefully, as it was not coming from the developers directly. It's still pretty scummy regardless.
+3. "Lifetime" keys tend to expire. I did try asking bogie (Platoboost/Delta keysystem owner) about that in July 2026, when I believed he managed keys, but he didn't state why. He only said he didn't manage the keys on _4th November_, despite being pinged/DMed (he said his DMs were off) _several times_ about the keys over the past year by tens of people. I'm guessing he's saying that the resellers should've marketed the keys they were given by the admins (which admins/devs? I have no idea.) as a 1-year key, and also implying that the people who bought them should've thought more carefully, as it was not coming from the developers directly. It's still pretty scummy regardless.
 
 <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7c61605d-a5c2-47b3-99f5-b538c8dfaeb4" />
 
@@ -191,7 +193,7 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 ## 8. Other Stuff and Shit
 1. Ylem has never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
 
-2. Swears have generally banned, even to the Supports since early 2026, but the developers (especially mlemix (on his alt, pibbster) and bogie) like saying them. A bit unfair! (Oh, and, they have said stuff like "jeet", "panjeet", "downie faggot", "mongoloid" and the n-word).
+2. Swears have generally banned, even to the Supports since early 2026, but the developers (especially mlemix (on his alt, pibbster) and bogie) like saying them. A bit unfair! (here are some examples: "jeet", "panjeet", "downie faggot", "mongoloid" and the n-word).
 
 3. You can't send links in channels except https://deltaexploits.gg. Not even the khoindvn website.
 
@@ -201,7 +203,7 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 
 6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
-7. Mlemix has called Potassium "skidded" and "detected" in #support-chat (ironic?). Bogie is in the Kawaii server; [Kawaii](https://lua.paramore.su/) is a paid Android executor that is superior to Delta in most ways.
+7. Mlemix has called Potassium "skidded" and "detected" in #support-chat (ironic?). Bogie is also in the Kawaii server; [Kawaii](https://lua.paramore.su/) is a paid Android executor that is superior to Delta in most ways.
 
 ## nyxolz's summarisation
 - delta is dead (chat is drier by the day)
