@@ -129,7 +129,6 @@ Extra info from nyxolz:
 <img width="935" height="501" alt="Screenshot 2026-10-30 21 57 58" src="https://github.com/user-attachments/assets/d119e5eb-8c58-4912-86e4-5e4408c1f808" />
 <img width="935" height="400" alt="Screenshot 2026-10-30 21 58 07" src="https://github.com/user-attachments/assets/0e312367-1b92-4d00-9755-86c6953c3765" />
 
-05/11/2026: track33 (Moderator) spammed the n-word in nyxolz's DMs. Here is yet another example of ylem being a dumbass:
 <img width="768" height="655" alt="image" src="https://github.com/user-attachments/assets/038ba97e-81e4-46eb-9f23-638a04b82cf0" />
 <img width="296" height="640" alt="image" src="https://github.com/user-attachments/assets/aefce07a-6560-4699-bb74-f38451e22872" />
 
