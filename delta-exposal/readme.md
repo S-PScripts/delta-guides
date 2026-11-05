@@ -54,17 +54,18 @@ Let me show you the current (non-Trial) Support List and their contributions:
   - 3 contributions to #solutions
 - carlitos (now senior moderator)
   - 7 or so contributions (once I got demoted and deleted my solutions, he started adding them to replace them. Maybe inspired by mine)
-- synx (now moderator)
+- synx
   - 3 contributions to #solutions
 - loading...
   - 1 contribution to #solutions
 - ash
-  - 3 contributions to #solutions... except one of them is actually mine...
+  - 3 contributions to #solutions (except one of them is actually mine)
+- jay
+  - 2 contributions to #solutions (both of them have contributions from me)
  
  <img width="598" height="438" alt="image" src="https://github.com/user-attachments/assets/6d461528-e2fd-49c8-9e2b-7e0b670ed287" />
 
 Mine: https://github.com/S-PScripts/delta-guides/blob/main/How%20to%20update%20Delta%20(iOS).md
-
 
 - Every other support has made no contributions
   
@@ -128,9 +129,12 @@ Extra info from nyxolz:
 <img width="935" height="501" alt="Screenshot 2026-10-30 21 57 58" src="https://github.com/user-attachments/assets/d119e5eb-8c58-4912-86e4-5e4408c1f808" />
 <img width="935" height="400" alt="Screenshot 2026-10-30 21 58 07" src="https://github.com/user-attachments/assets/0e312367-1b92-4d00-9755-86c6953c3765" />
 
-05/11/2026: track33 (Moderator) spammed the n-word in nyxolz's DMs.
+05/11/2026: track33 (Moderator) spammed the n-word in nyxolz's DMs. Here is yet another example of ylem being a dumbass:
+<img width="768" height="655" alt="image" src="https://github.com/user-attachments/assets/038ba97e-81e4-46eb-9f23-638a04b82cf0" />
+<img width="296" height="640" alt="image" src="https://github.com/user-attachments/assets/aefce07a-6560-4699-bb74-f38451e22872" />
 
-## 5. The Present Internal State - Several Role Changes
+
+## 5. The Present Internal State - Role Change Mayhem
 Carlitos replaced Alan (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
 
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
