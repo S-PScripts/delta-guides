@@ -59,7 +59,7 @@ Let me show you the current (non-Trial) Support List and their contributions:
 - loading...
   - 1 contribution to #solutions
 - ash
-  - 5 contributions to #solutions (except two of them is actually mine)
+  - 3 contributions to #solutions (he also posted two of MY ones but carlitos deleted)
 - jay
   - 2 contributions to #solutions (both of them have contributions from me)
  
