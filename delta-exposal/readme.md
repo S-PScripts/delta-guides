@@ -59,13 +59,19 @@ Let me show you the current (non-Trial) Support List and their contributions:
 - loading...
   - 1 contribution to #solutions
 - ash
-  - 3 contributions to #solutions (except one of them is actually mine)
+  - 5 contributions to #solutions (except two of them is actually mine)
 - jay
   - 2 contributions to #solutions (both of them have contributions from me)
  
  <img width="598" height="438" alt="image" src="https://github.com/user-attachments/assets/6d461528-e2fd-49c8-9e2b-7e0b670ed287" />
 
 Mine: https://github.com/S-PScripts/delta-guides/blob/main/How%20to%20update%20Delta%20(iOS).md
+
+
+
+Most shameless person ever:
+
+<img width="448" height="312" alt="image" src="https://github.com/user-attachments/assets/bb034698-dc17-4501-9733-f2f2c7e9b601" />
 
 - Every other support has made no contributions
   
@@ -130,6 +136,7 @@ Extra info from nyxolz:
 <img width="935" height="400" alt="Screenshot 2026-10-30 21 58 07" src="https://github.com/user-attachments/assets/0e312367-1b92-4d00-9755-86c6953c3765" />
 
 05/11/2026: track33 (Moderator) spammed the n-word in nyxolz's DMs and only got banned today. Another example of ylem being slow:
+
 <img width="768" height="655" alt="image" src="https://github.com/user-attachments/assets/038ba97e-81e4-46eb-9f23-638a04b82cf0" />
 <img width="296" height="640" alt="image" src="https://github.com/user-attachments/assets/aefce07a-6560-4699-bb74-f38451e22872" />
 
