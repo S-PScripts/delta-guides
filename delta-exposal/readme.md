@@ -50,10 +50,10 @@ Ever since ylem created a Support Application channel (shortly after my demotion
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps fewer people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
 
 Let me show you the current (non-Trial) Support List and their contributions:
-- track33 (now moderator. They were active once, but are now quite inactive)
+- track33 (now banned)
   - 3 contributions to #solutions
 - carlitos (now senior moderator)
-  - 7 or so contributions (once I got demoted and deleted my solutions, he started adding them to replace them. Maybe inspired by mine)
+  - 7 or so contributions (once I got demoted and deleted my solutions, he started adding them to replace them. Potentially inspired by mine, but at least they are original and not blatant C+V)
 - synx
   - 3 contributions to #solutions
 - loading...
@@ -61,7 +61,7 @@ Let me show you the current (non-Trial) Support List and their contributions:
 - ash
   - 3 contributions to #solutions (he also posted two of MY ones but carlitos deleted)
 - jay
-  - 2 contributions to #solutions (both of them have contributions from me)
+  - 1 contributions to #solution (it has contributions from me; he also had another one which was even more egregious but carlitos deleted that too after I told him)
  
  <img width="598" height="438" alt="image" src="https://github.com/user-attachments/assets/6d461528-e2fd-49c8-9e2b-7e0b670ed287" />
 
