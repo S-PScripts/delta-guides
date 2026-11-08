@@ -140,6 +140,12 @@ Extra info from nyxolz:
 <img width="768" height="655" alt="image" src="https://github.com/user-attachments/assets/038ba97e-81e4-46eb-9f23-638a04b82cf0" />
 <img width="296" height="640" alt="image" src="https://github.com/user-attachments/assets/aefce07a-6560-4699-bb74-f38451e22872" />
 
+08/11/2026: For some reason me and nyxolz lost permission to #solutions...? (carlitos readded mine)
+
+<img width="413" height="283" alt="Screenshot 2026-11-08 23 45 59" src="https://github.com/user-attachments/assets/69b2b6d1-f36b-4653-8c90-4b5c60df3527" />
+<img width="413" height="283" alt="image" src="https://github.com/user-attachments/assets/288c6970-62ba-4c30-9386-ae339fecf473" />
+
+We're also both missing from the Arcane leaderboard (levels reset): https://arcane.bot/leaderboard/1279547031945220147
 
 ## 5. The Present Internal State - Role Change Mayhem
 Carlitos replaced Alan (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
