@@ -1,19 +1,19 @@
 # Delta Executor - Hell 
 I was a Support for the Delta Community Discord server from 1st July 2026 to 14th September 2026. However, I had been helping with Delta since January 2026. I had also helped in the Krnl server before that since mid 2025 (until it got discontinued in late 2025). One of the Krnl managers (whoise) even asked me for help once. I have made this README.md mainly to discuss the administration of the Delta server - specifically, why it isn't good. (ignore the tense problems, saar)
 
-## 1. Alan
+## 1. RetardAnal
 
-Alan was a Support Manager and Moderator of the server, up until 7th October 2026. I believe he should not have had the roles he had.
+RetardAnal was a Support Manager and Moderator of the server, up until 7th October 2026. I believe he should not have had the roles he had.
 
-I got demoted for "NSFW". If you want to see exactly what I did to get demoted, press this link. Then, you can also witness Alan's ignorance and idiocy: https://discord.com/channels/1279547031945220147/1294274202320244777/1558141382386786335
+I got demoted for "NSFW". If you want to see exactly what I did to get demoted, press this link. Then, you can also witness RetardAnal's ignorance and idiocy: https://discord.com/channels/1279547031945220147/1294274202320244777/1558141382386786335
 
-Alan tried to deflect by showing how nyxolz agreed with him (she was a senior mod; his superior), but that's because she's busy with [Prism](https://discord.gg/prismmacos) and doesn't check Delta that much. Alan KNOWS that.
+RetardAnal tried to deflect by showing how nyxolz agreed with him (she was a senior mod; his superior), but that's because she's busy with [Prism](https://discord.gg/prismmacos) and doesn't check Delta that much. RetardAnal KNOWS that.
 
 <img width="434" height="640" alt="image" src="https://github.com/user-attachments/assets/f894ecdd-1502-4c47-86c3-28e961c58312" />
 
 NOTE: Shortly after he demoted me, I decided to delete all my solutions from the Delta Community server, as all actions, such as him demoting me for NSFW, have consequences. Please don't repost my stuff in #solutions without my permission.
 
-Alan also liked having fun removing and re-adding roles from us, and being a negative guy in general. He thinks he's the "goat" and that he's not a chud like the rest of us. But I mean... he was a moderator. And he stayed on the moderation team for THREE WEEKS before actually getting removed. Despite him supposedly quitting, he joined on his alt and said some nice stuff like the following...
+RetardAnal also liked having fun removing and re-adding roles from us, and being a negative guy in general. He thinks he's the "goat" and that he's not a chud like the rest of us. But I mean... he was a moderator. And he stayed on the moderation team for THREE WEEKS before actually getting removed. Despite him supposedly quitting, he joined on his alt and said some nice stuff like the following...
 <img width="776" height="62" alt="image" src="https://github.com/user-attachments/assets/da59bbfa-3c29-42de-b8c3-b8ef31654c98" />
 
 
@@ -25,7 +25,7 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 <img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163135_Discord.jpg?raw=true" width="50%">
 <img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163201_Discord.jpg?raw=true" width="50%">
 
-One of the other senior mods (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan.
+One of the other senior mods (Reflex) was also a little suspicious of RetardAnal too, but didn't make it that clear. They quit at the same time as RetardAnal.
 
 ## 2. Ylem and Phxyzn
 Phxyzn is the Staff Manager of the server. He is the guy who updated the support application in early 2026 to have ZERO questions about Delta troubleshooting (initially, it wasn't like that). NOTE: Phxyzn made the first support application too, back in November 2025. I assume it was updated due to the server dying and losing intelligent people. Also, in case you think that I'm retarded, Phxyzn said in #support-chat (when I completed the application even though I was banned at the time) that I got nearly everything right on THAT old application. Keep in mind that I wasn't as good at helping at the time; I didn't have 30 guides as I have now.
@@ -75,7 +75,7 @@ Most shameless person ever:
 
 - Every other support has made no contributions
   
-There are a couple from nyxolz and alan too, as well as some Supports that are now demoted. However, that's really all. I made about 30 in
+There are a couple from nyxolz and RetardAnal too, as well as some Supports that are now demoted. However, that's really all. I made about 30 in
 total whilst I was a support.
 
 I became Support to fix the #solutions channel (since it was missing a ton of information, and some had terrible wording/were unclear). Many Supports used my solutions, as they weren't shit. My solutions may have helped them to not get demoted, even. However, I won't say it's the gospel, as I'm not trying to be a narcissist.
@@ -118,12 +118,12 @@ Don't worry, though, it gets worse. Phxyzn and Ylem clearly have some bias towar
 
 nyxolz should have had a promotion, but that didn't happen. The maximum is Senior Moderator unless you're friends with mlemix. Or Ylem, as Phxyzn is Staff Manager.
 
-nyxolz said the following: i agree i should be higher, i already lock/unlock some channels and fix perms as well as promoting/demoting staff like i demoted alan and promoted reflex to senior kinda (it was my choice either sen or reflex so i already make those decisions, just make me staff manager or admin atp) 
+nyxolz said the following: i agree i should be higher, i already lock/unlock some channels and fix perms as well as promoting/demoting staff like i demoted RetardAnal and promoted reflex to senior kinda (it was my choice either sen or reflex so i already make those decisions, just make me staff manager or admin atp) 
 
-Here's some more information about Alan. Before Alan quit, he was actually considered to be a senior mod by Ylem. Ridiculous:
+Here's some more information about RetardAnal. Before RetardAnal quit, he was actually considered to be a senior mod by Ylem. Ridiculous:
 <img width="762" height="60" alt="image" src="https://github.com/user-attachments/assets/8223dd4f-4472-4726-a3f4-798cca702e90" />
 
-Alan, when he got demoted, got to have the "Retired Staff" role too. However, he ended up leaving the server (before rejoining on his alt account).
+RetardAnal, when he got demoted, got to have the "Retired Staff" role too. However, he ended up leaving the server (before rejoining on his alt account).
 
 Extra info from nyxolz:
 <img width="935" height="401" alt="Screenshot 2026-10-30 21 57 13" src="https://github.com/user-attachments/assets/e513a8e7-9ff0-470d-952a-fc3388c427d2" />
@@ -148,11 +148,11 @@ Extra info from nyxolz:
 We're also both missing (me and nyxolz' main account) from the Arcane leaderboard (our levels have been reset): https://arcane.bot/leaderboard/1279547031945220147
 
 ## 5. The Present Internal State - Role Change Mayhem
-Carlitos replaced Alan (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
+Carlitos replaced RetardAnal (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
 
 <img width="303" height="59" alt="Screenshot 2026-10-09 23 47 41" src="https://github.com/user-attachments/assets/a4eeff71-91c8-4e25-b983-582ff2a6fd24" />
 
-Track33, previously Support, was also promoted to moderator (as Reflex and sen left the Staff Team) and is also a support manager too now (Track33 should hopefully be better than Alan; not that active, but not acting inappropriately). (Nyxolz has the Support Manager role too, but doesn't do it anymore.)
+Track33, previously Support, was also promoted to moderator (as Reflex and sen left the Staff Team) and is also a support manager too now (Track33 should hopefully be better than RetardAnal; not that active, but not acting inappropriately). (Nyxolz has the Support Manager role too, but doesn't do it anymore.)
 
 10/09/2026: Track33 reinstated my Support role. However, Phxyzn decided to demote me right after (clown):
 
@@ -161,7 +161,7 @@ Track33, previously Support, was also promoted to moderator (as Reflex and sen l
 
 <img width="690" height="86" alt="Screenshot 2026-10-10 02 13 28" src="https://github.com/user-attachments/assets/359c9795-a801-4cdb-a26b-3fd4a2f07117" />
 
-11/09/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. Alan and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator??
+11/09/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. RetardAnal and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator??
 
 Kyson was a Support between September 2025 and January 2026. They were... an interesting character, to say the least. Banned in January but returned in July, as he was a cool guy. That's also why he got given the Support role, even though he's not actually a Support.
 
