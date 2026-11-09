@@ -197,7 +197,7 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 
 <img width="553" height="83" alt="image" src="https://github.com/user-attachments/assets/f8fc1ed6-b712-482e-b144-29895c092b2f" />
 
-4. In September 2026, Lxnny, on his alt 00000000, leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
+4. In September 2026, Lxnny (?), on his alt 00000000, leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
 
 5. concre.te is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
 
@@ -206,6 +206,11 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 6. Lxnny (on his other alt account, desiderium) has promoted Robux gambling websites like RoStake, especially in #support-chat.
 
 7. In testing builds of Delta, it knows how many times you join games. It also sends crashes to the developers. Not only this, Delta is able to view all your apps (so it can ban you if you have any key bypasser apps). Who knows what else it can do?
+
+8. Lxnny sold Delta at some point, according to bogie, as he was busy with RoStake (confirming what I said before). Still owns the Delta Community server and has the Owner role for some reason.
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/b3d2465d-64b6-4850-8bf9-8df0c6eb2faf" />
+
 
 ## 8. Other Stuff and Shit
 1. Ylem has never bothered adding an attachment limit, so #media often has a MrBeast scam promotion sent by hacked accounts. Although the mods quickly remove it, it's still a bit concerning.
