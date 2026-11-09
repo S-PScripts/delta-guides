@@ -251,6 +251,12 @@ deltas owner and dev use their popularity and power to force scripts into doing 
 this includes removing a partner that they don’t like,  <br>
 removing a delta bypass or just giving the person a bad rep to force them shutdown something that will compete against delta.  <br>
 
+
+
+
+delta staff try not to be a pedophile: impossible 
+
+
 This file was created on 17th September 2026.
 Created by ts2021, with nyxolz's contributions too
 
