@@ -169,7 +169,11 @@ There is probably some bias here to give him Senior Mod. He's not that involved 
 
 26/10/2026: Carlitos is now a Senior Mod as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
-30/10/2026: Synx got demoted for some reason. <!-- this guy is a dickrider, also saw a screenshot of him being racist in another server -->
+30/10/2026: Synx got demoted for some reason. But I'm not angry, as he likes saying stuff like this to me: <!-- also saw a screenshot of him being racist in another server -->
+
+<img width="287" height="150" alt="image" src="https://github.com/user-attachments/assets/b7570316-1cf7-452c-b38d-11543b0f52ff" />
+
+<img width="287" height="332" alt="image" src="https://github.com/user-attachments/assets/795022b0-8f21-49b6-9e58-afd7a1131d9a" />
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
