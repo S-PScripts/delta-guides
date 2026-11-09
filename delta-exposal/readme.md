@@ -140,12 +140,12 @@ Extra info from nyxolz:
 <img width="768" height="655" alt="image" src="https://github.com/user-attachments/assets/038ba97e-81e4-46eb-9f23-638a04b82cf0" />
 <img width="296" height="640" alt="image" src="https://github.com/user-attachments/assets/aefce07a-6560-4699-bb74-f38451e22872" />
 
-08/11/2026: For some reason me and nyxolz lost permission to #solutions...? (carlitos readded mine)
+08/11/2026: For some reason me and nyxolz's alt account lost permission to #solutions...? (carlitos readded mine)
 
 <img width="413" height="283" alt="Screenshot 2026-11-08 23 45 59" src="https://github.com/user-attachments/assets/69b2b6d1-f36b-4653-8c90-4b5c60df3527" />
 <img width="413" height="283" alt="image" src="https://github.com/user-attachments/assets/288c6970-62ba-4c30-9386-ae339fecf473" />
 
-We're also both missing from the Arcane leaderboard (levels reset): https://arcane.bot/leaderboard/1279547031945220147
+We're also both missing (me and nyxolz' main account) from the Arcane leaderboard (our levels have been reset): https://arcane.bot/leaderboard/1279547031945220147
 
 ## 5. The Present Internal State - Role Change Mayhem
 Carlitos replaced Alan (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
@@ -178,7 +178,7 @@ Anyway, Delta was actually detected in previous versions; people got flagged and
 
 The Delta developers always claim that their tool is "Still Undetected" in their changelog in the main server, when they obviously have no idea if that will be the case. Perhaps they mean "Still Undetected by Roblox games, but not Roblox itself", but I doubt that. The only place where they say that Delta can be detected is on the website.
 
-The Delta developers ended up making v743-02, which I used less than 5 times on a brand new alt. Yet that ended up getting banned too (2nd November).
+The Delta developers ended up making v743-02, which I used less than 5 times on a brand new alt. Yet that ended up getting banned too (2nd November). (v745 seems to be safe).
 
 ## 7. Non-Existent Transparency
 1. Zero transparency or information given about https://delta-executor.com to the Supports (at some point, it was an actual "Partner"... yet we were not allowed to send the link to it). It is no longer a partner as the delta-executor.com server promoted a key bypasser, yet Mystery Man (owner of the website) is still in the real Delta server. He has promoted his "Delta iOS Premium" a few times, which is probably a scam/doesn't work.
@@ -197,13 +197,13 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 
 <img width="553" height="83" alt="image" src="https://github.com/user-attachments/assets/f8fc1ed6-b712-482e-b144-29895c092b2f" />
 
-4. A new owner arriving (00000000) in September 2026; they leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
+4. In September 2026, Lxnny, on his alt 00000000, leaked a new design for the Delta website and the new Delta Executor design (which was similar to the one found in Delta's internal files, but not identical). #general then got hidden and replaced for unknown reasons. To this day, they still haven't replaced the design. Very strange.
 
 5. concre.te is the developer of Delta (and has the Owner role), but they weren't always. Mlemix was until lxnny (the creator and owner of Delta) replaced him (in #support-chat, he said he was tired of his bullshit). However, Mlemix still has the Manager role and probably helps with the development of Delta regardless (he's given me APKs to test before).
 
 <img width="525" height="640" alt="image" src="https://github.com/user-attachments/assets/35ad39c5-1a3d-402d-8243-c29681f2f241" />
 
-6. Lxnny (on his alt account, desiderium) has promoted Robux gambling websites like RoStake, especially in #support-chat.
+6. Lxnny (on his other alt account, desiderium) has promoted Robux gambling websites like RoStake, especially in #support-chat.
 
 7. In testing builds of Delta, it knows how many times you join games. It also sends crashes to the developers. Not only this, Delta is able to view all your apps (so it can ban you if you have any key bypasser apps). Who knows what else it can do?
 
@@ -228,6 +228,20 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 - everyone is inactive or has quit
 - support team is dead
 - ylem isn't really active and doesn't do much, same with phxyzn
+
+## nyxolz's final statement:
+i’m tired of acting like delta isn’t a trash executor.  <br>
+while using delta over the past year i’ve been detected 5 times,   <br>
+only reason ive kept using it is because i was staff and had a lifetime key.  <br>
+discord.gg/kawaiilua (kawaii) is way better then delta,  <br>
+only been detected once and the devs are actually public about detections and not blaming it on another executor,  <br>
+sure the ui could improve but other then that it’s 10x better then delta.   <br>
+i’d rather choose a small exploit > some big exploit anytime,   <br>
+to anyone reading this and thinking that delta is better is a retard.  <br>
+devs take forever to fix bugs, yell slurs at testers and don’t gaf about their users.  <br>
+deltas owner and dev use their popularity and power to force scripts into doing whatever **they** want,   <br>
+this includes removing a partner that they don’t like,  <br>
+removing a delta bypass or just giving the person a bad rep to force them shutdown something that will compete against delta.  <br>
 
 This file was created on 17th September 2026.
 Created by ts2021, with nyxolz's contributions too
