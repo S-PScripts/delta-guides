@@ -207,7 +207,10 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 
 7. In testing builds of Delta, it knows how many times you join games. It also sends crashes to the developers. Not only this, Delta is able to view all your apps (so it can ban you if you have any key bypasser apps). Who knows what else it can do?
 
-8. Lxnny sold Delta at some point, according to bogie, as he was busy with RoStake (confirming what I said before). Still owns the Delta Community server and has the Owner role for some reason.
+8. Lxnny sold Delta at some point, according to bogie, as he was busy with RoStake (confirming what I said before). Still owns the Delta Community server and has the Owner role for some reason. - completely false. i think this is to avoid the whole volt thing since lxnny owns volt, and if it was confirmed he owned both maybe delta would be taken down just like krnl also if he sold it he wouldnt "remove" mlemix from the dev team or still own **both** discord servers. (mlemix is concrete im like 90% sure)
+
+ <img width="1190" height="582" alt="image" src="https://github.com/user-attachments/assets/2904d6c1-1acb-4547-b00b-aab427a4d85a" />
+ ^^^ mlemix would always say retard so this is really unusual (no this isnt a accidental misspelling since hes spelled it wrong like 5 times) also he purged all of his messages the day "concrete" became dev, hmmmmm
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/b3d2465d-64b6-4850-8bf9-8df0c6eb2faf" />
 
