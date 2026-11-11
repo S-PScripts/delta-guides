@@ -25,7 +25,7 @@ Here are three screenshots (one Support, one former Support, one Trial Support) 
 <img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163135_Discord.jpg?raw=true" width="50%">
 <img src="https://github.com/S-PScripts/delta-guides/blob/main/delta-exposal/Screenshot_20260916_163201_Discord.jpg?raw=true" width="50%">
 
-One of the other senior mods (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan.
+One of the other senior mods (Reflex) was also a little suspicious of Alan too, but didn't make it that clear. They quit at the same time as Alan. 
 
 ## 2. Ylem and Phxyzn
 Phxyzn is the Staff Manager of the server. He is the guy who updated the support application in early 2026 to have ZERO questions about Delta troubleshooting (initially, it wasn't like that). NOTE: Phxyzn made the first support application too, back in November 2025. I assume it was updated due to the server dying and losing intelligent people. Also, in case you think that I'm retarded, Phxyzn said in #support-chat (when I completed the application even though I was banned at the time) that I got nearly everything right on THAT old application. Keep in mind that I wasn't as good at helping at the time; I didn't have 30 guides as I have now.
@@ -165,11 +165,14 @@ Track33, previously Support, was also promoted to moderator (as Reflex and sen l
 
 <img width="690" height="86" alt="Screenshot 2026-10-10 02 13 28" src="https://github.com/user-attachments/assets/359c9795-a801-4cdb-a26b-3fd4a2f07117" />
 
-11/09/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. Alan and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator??
+11/10/2026: Nyxolz quit over the bullshit drama; Carlitos is now the other Support Manager as track33 asked Nyxolz to do that before she quit. Alan and Nyxolz both got Retired Staff (ylem doing something good for once), but Phxyzn and Ylem decided to promote Kyson (a Support) straight to **Senior** Moderator??
 
 Kyson was a Support between September 2025 and January 2026. They were... an interesting character, to say the least. Banned in January but returned in July, as he was a cool guy. That's also why he got given the Support role, even though he's not actually a Support.
 
 There is probably some bias here to give him Senior Mod. He's not that involved in Delta anymore, similar to colaid and Warxr. Kyson was one of the longest-standing Supports, so I guess if someone had to get promoted, I agree it should have been him. However, in my opinion, he should have got Moderator, and carlitos and/or track33 promoted to Senior Mod. (Nyxolz's view: I think this is a good idea; Kyson was here over a year ago, then got banned. Other than him not being active 24/7, I think it's a good decision)
+
+oh I found this (yeah before you believe synx that I was a shitty support, as he liked to joke about that):
+<img width="361" height="361" alt="image" src="https://github.com/user-attachments/assets/d68a0899-b26f-4c32-9c5c-47f77d73dc5e" />
 
 26/10/2026: Carlitos is now a Senior Mod as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
