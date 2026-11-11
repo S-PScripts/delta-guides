@@ -145,6 +145,10 @@ Extra info from nyxolz:
 <img width="413" height="283" alt="Screenshot 2026-11-08 23 45 59" src="https://github.com/user-attachments/assets/69b2b6d1-f36b-4653-8c90-4b5c60df3527" />
 <img width="413" height="283" alt="image" src="https://github.com/user-attachments/assets/288c6970-62ba-4c30-9386-ae339fecf473" />
 
+10/11/2026: no permission to see messages, weird:
+
+<img width="603" height="116" alt="image" src="https://github.com/user-attachments/assets/3a77b01b-2cdb-4e56-8dbf-c86ab1e31cf3" />
+
 We're also both missing (me and nyxolz' main account) from the Arcane leaderboard (our levels have been reset): https://arcane.bot/leaderboard/1279547031945220147
 
 ## 5. The Present Internal State - Role Change Mayhem
