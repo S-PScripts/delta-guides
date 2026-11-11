@@ -3,7 +3,7 @@ I was a Support for the Delta Community Discord server from 1st July 2026 to 14t
 
 ## 1. Alan
 
-Alan was a Support Manager and Moderator of the server, up until 7th October 2026. I believe he should not have had the roles he had.
+Alan was a Support Manager and Moderator of the server, up until 7th October 2026. I believe he should noRt have had the roles he had.
 
 I got demoted for "NSFW". If you want to see exactly what I did to get demoted, press this link. Then, you can also witness Alan's ignorance and idiocy: https://discord.com/channels/1279547031945220147/1294274202320244777/1558141382386786335
 
@@ -176,8 +176,21 @@ There is probably some bias here to give him Senior Mod. He's not that involved 
 30/10/2026: Synx got demoted for some reason. But I'm not angry, as he likes saying stuff like this to me: <!-- also saw a screenshot of him being racist in another server -->
 
 <img width="287" height="150" alt="image" src="https://github.com/user-attachments/assets/b7570316-1cf7-452c-b38d-11543b0f52ff" />
+<br>
 
 <img width="287" height="332" alt="image" src="https://github.com/user-attachments/assets/795022b0-8f21-49b6-9e58-afd7a1131d9a" />
+<br>
+
+<img width="245" height="240" alt="image" src="https://github.com/user-attachments/assets/db940a1c-81c7-460b-a2c6-91652a85c10a" />
+<br>
+
+<img width="421" height="104" alt="image" src="https://github.com/user-attachments/assets/00ca5f14-acf8-4173-a08e-1c1d7451d26e" />
+
+also this:
+
+<img width="421" height="141" alt="image" src="https://github.com/user-attachments/assets/ca79861f-4ffd-486c-9d78-4db7f07b78df" />
+
+never let bro become mod again
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
