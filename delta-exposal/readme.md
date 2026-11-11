@@ -3,7 +3,7 @@ I was a Support for the Delta Community Discord server from 1st July 2026 to 14t
 
 ## 1. Alan
 
-Alan was a Support Manager and Moderator of the server, up until 7th October 2026. I believe he should noRt have had the roles he had.
+Alan was a Support Manager and Moderator of the server, up until 7th October 2026. I believe he should not have had the roles he had.
 
 I got demoted for "NSFW". If you want to see exactly what I did to get demoted, press this link. Then, you can also witness Alan's ignorance and idiocy: https://discord.com/channels/1279547031945220147/1294274202320244777/1558141382386786335
 
