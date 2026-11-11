@@ -181,7 +181,7 @@ There is probably some bias here to give him Senior Mod. He's not that involved 
 <img width="287" height="332" alt="image" src="https://github.com/user-attachments/assets/795022b0-8f21-49b6-9e58-afd7a1131d9a" />
 <br>
 
-<img width="245" height="240" alt="image" src="https://github.com/user-attachments/assets/db940a1c-81c7-460b-a2c6-91652a85c10a" />
+<img width="235" height="242" alt="image" src="https://github.com/user-attachments/assets/0ad13916-b360-4d11-b338-163f19bc9aa0" />
 <br>
 
 <img width="421" height="104" alt="image" src="https://github.com/user-attachments/assets/00ca5f14-acf8-4173-a08e-1c1d7451d26e" />
