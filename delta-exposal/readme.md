@@ -195,7 +195,7 @@ haha im so funny teasing:
 
 <img width="421" height="104" alt="image" src="https://github.com/user-attachments/assets/00ca5f14-acf8-4173-a08e-1c1d7451d26e" />
 
-powertripping:
+powertripping and openly showing how maturity:
 
 <img width="421" height="141" alt="image" src="https://github.com/user-attachments/assets/ca79861f-4ffd-486c-9d78-4db7f07b78df" />
 <br>
@@ -203,13 +203,18 @@ powertripping:
 <img width="401" height="172" alt="image" src="https://github.com/user-attachments/assets/e5b51b22-c28d-4a3a-b7b1-e763b7406394" />
 <br>
 
+<img width="268" height="417" alt="image" src="https://github.com/user-attachments/assets/528b0396-833f-4c6e-8e12-0442a6e203c2" />
+<br>
+
 <img width="401" height="338" alt="image" src="https://github.com/user-attachments/assets/cc3123ce-5580-4c9a-8f39-af308c12b27b" />
 <br>
 
-<img width="343" height="201" alt="image" src="https://github.com/user-attachments/assets/d3e0219c-aafd-4105-9db2-d4da89a7343e" /> (bro was mod for like 2 weeks)
+<img width="343" height="201" alt="image" src="https://github.com/user-attachments/assets/d3e0219c-aafd-4105-9db2-d4da89a7343e" />
+
+(bro was mod for like 2 weeks)
 <br>
 
-## Bandom and a moderator's comments
+## Banned and a moderator's comments
 I have been banned twice more from the Delta Community server, apart from my ban in September 2025 (before I even ever become a Support) for unrelated reasons. Both happened recently, and one from mlemix.
 
 <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7e0d57d6-409d-4f5b-869f-82aa6ce2dd8d" />
