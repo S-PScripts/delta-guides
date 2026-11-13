@@ -47,7 +47,7 @@ Ever since ylem created a Support Application channel (shortly after my demotion
 <img width="174" height="220" alt="image" src="https://github.com/user-attachments/assets/ecfc15ab-8a04-4015-89dd-7535fbbcc0f5" />
 
 Synx... (mentioned later down this .MD, also how interesting of the Delta moderator here to delete their messages in my DMs...)
-<img width="386" height="85" alt="image" src="https://github.com/user-attachments/assets/57228be4-2265-4055-9add-852a3e5245f7" />
+<img width="386" height="85" alt="image" src="https://github.com/user-attachments/assets/6ce011ad-d8da-4461-a6eb-61216b7fc019" />
 
 ## 3. The Support Team - Shrinkage and Stupidity
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps fewer people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
@@ -209,15 +209,24 @@ powertripping:
 <img width="343" height="201" alt="image" src="https://github.com/user-attachments/assets/d3e0219c-aafd-4105-9db2-d4da89a7343e" /> (bro was mod for like 2 weeks)
 <br>
 
-I have been banned twice more from the server, apart from my ban in September 2025 (before I even ever become a Support) for unrelated reasons. Both happened recently, and one from mlemix.
+## Bandom and a moderator's comments
+I have been banned twice more from the Delta Community server, apart from my ban in September 2025 (before I even ever become a Support) for unrelated reasons. Both happened recently, and one from mlemix.
 
 <img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7e0d57d6-409d-4f5b-869f-82aa6ce2dd8d" />
 <br>
 <img width="1024" height="243" alt="image" src="https://github.com/user-attachments/assets/7b886ff3-5369-40c6-bc2a-c67191b92d4b" />
 <br>
 
-If this is the reason, he is a fucking chud:
-<img width="734" height="440" alt="image" src="https://github.com/user-attachments/assets/87a9b205-79ea-4ccf-b053-d00c7f05602a" />
+If this is the reason, mlemix is a fucking chud:
+<img width="734" height="440" alt="image" src="https://github.com/user-attachments/assets/421fbfc1-db72-4389-ad04-83a3b2404d9a" />
+<br>
+
+And here's some comments from a mod:
+
+<img width="510" height="154" alt="image" src="https://github.com/user-attachments/assets/f40934fa-ad36-47f4-bb59-f9fcc23d8e54" />
+<br>
+<br>
+
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
