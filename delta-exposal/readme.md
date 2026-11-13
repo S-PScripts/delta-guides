@@ -45,7 +45,10 @@ Nyxolz also stated the following: "everyone who applies is mostly an idiot or un
 Ever since ylem created a Support Application channel (shortly after my demotion), lots more people were promoted. Luckily, they were helping rather well! Or were they? Turns out half of them got a warning for not doing enough proofs. A bunch ended up getting demoted. Also, despite there being around 20 Supports, support forums are still occasionally void of helpers. Here is an example (this isn't a good example, but if you look hard enough you can find no one online):
 
 <img width="174" height="220" alt="image" src="https://github.com/user-attachments/assets/ecfc15ab-8a04-4015-89dd-7535fbbcc0f5" />
- 
+
+Synx... (mentioned later down this .MD, also how interesting of the Delta moderator here to delete their messages in my DMs...)
+<img width="386" height="85" alt="image" src="https://github.com/user-attachments/assets/57228be4-2265-4055-9add-852a3e5245f7" />
+
 ## 3. The Support Team - Shrinkage and Stupidity
 Over time, I have also noticed that the Staff Team has been getting smaller, or perhaps fewer people are getting promoted to Support (or getting Trial Support in the first place). Either Delta is dying, not enough selections are happening, or the selections are just shit.
 
@@ -295,11 +298,6 @@ devs take forever to fix bugs, yell slurs at testers and don’t gaf about their
 deltas owner and dev use their popularity and power to force scripts into doing whatever **they** want,   <br>
 this includes removing a partner that they don’t like,  <br>
 removing a delta bypass or just giving the person a bad rep to force them shutdown something that will compete against delta.  <br>
-
-
-
-
-delta staff try not to be a pedophile: impossible 
 
 
 This file was created on 17th September 2026.
