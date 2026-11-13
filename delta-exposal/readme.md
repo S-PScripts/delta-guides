@@ -176,7 +176,10 @@ oh I found this (yeah before you believe synx that I was a shitty support, as he
 
 26/10/2026: Carlitos is now a Senior Mod as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
-30/10/2026: Synx got demoted for some reason. But I'm not angry, as he likes saying stuff like this to me: <!-- also saw a screenshot of him being racist in another server -->
+30/10/2026: Synx got demoted for some reason. But I'm not angry... <!-- also saw a screenshot of him being racist in another server -->
+
+## the cocky clown, aka "synx"
+haha im so funny teasing:
 
 <img width="287" height="150" alt="image" src="https://github.com/user-attachments/assets/b7570316-1cf7-452c-b38d-11543b0f52ff" />
 <br>
@@ -189,11 +192,19 @@ oh I found this (yeah before you believe synx that I was a shitty support, as he
 
 <img width="421" height="104" alt="image" src="https://github.com/user-attachments/assets/00ca5f14-acf8-4173-a08e-1c1d7451d26e" />
 
-also this:
+powertripping:
 
 <img width="421" height="141" alt="image" src="https://github.com/user-attachments/assets/ca79861f-4ffd-486c-9d78-4db7f07b78df" />
+<br>
 
-never let bro become mod again
+<img width="401" height="172" alt="image" src="https://github.com/user-attachments/assets/e5b51b22-c28d-4a3a-b7b1-e763b7406394" />
+<br>
+
+<img width="401" height="338" alt="image" src="https://github.com/user-attachments/assets/cc3123ce-5580-4c9a-8f39-af308c12b27b" />
+<br>
+
+<img width="343" height="201" alt="image" src="https://github.com/user-attachments/assets/d3e0219c-aafd-4105-9db2-d4da89a7343e" /> (bro was mod for like 2 weeks)
+<br>
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
