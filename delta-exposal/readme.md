@@ -206,6 +206,16 @@ powertripping:
 <img width="343" height="201" alt="image" src="https://github.com/user-attachments/assets/d3e0219c-aafd-4105-9db2-d4da89a7343e" /> (bro was mod for like 2 weeks)
 <br>
 
+I have been banned twice more from the server, apart from my ban in September 2025 (before I even ever become a Support) for unrelated reasons. Both happened recently, and one from mlemix.
+
+<img width="295" height="640" alt="image" src="https://github.com/user-attachments/assets/7e0d57d6-409d-4f5b-869f-82aa6ce2dd8d" />
+<br>
+<img width="1024" height="243" alt="image" src="https://github.com/user-attachments/assets/7b886ff3-5369-40c6-bc2a-c67191b92d4b" />
+<br>
+
+If this is the reason, he is a fucking chud:
+<img width="734" height="440" alt="image" src="https://github.com/user-attachments/assets/87a9b205-79ea-4ccf-b053-d00c7f05602a" />
+
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
 
