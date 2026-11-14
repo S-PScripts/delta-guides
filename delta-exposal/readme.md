@@ -290,7 +290,7 @@ Mlemix (on his alt pibbster) also gave this very vague response to one of the pe
 
 6. The #suggestions channel is useless. All the channels but #general, #media, #support-forums should get deleted as they are just filled with Akinator spam.
 
-7. Mlemix has called Potassium "skidded" and "detected" in #support-chat (ironic?). Bogie is also in the Kawaii server; [Kawaii](https://lua.paramore.su/) is a paid Android executor that is superior to Delta in most ways.
+7. Mlemix has called Potassium "skidded" and "detected" in #support-chat (ironic?). Bogie and lxnny (desiderium) are also in the Kawaii server; [Kawaii](https://lua.paramore.su/) is a paid Android executor that is superior to Delta in most ways. Hmmm, interesting (they aren't really in any other exploit server).
 
 ## nyxolz's summarisation
 - delta is dead (chat is drier by the day)
