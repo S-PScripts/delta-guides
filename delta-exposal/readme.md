@@ -93,10 +93,22 @@ A Support who tried to repost my guide without credit and also clearly didn't do
 I'd also like to prove the intelligence of some of the current support members. For example, here I pretended to need help installing Delta Android. This support thought to get it; I had to use ksign (iOS only, by the way). He got told by phxyzn that I was trolling, as he didn't realise. I have no idea where he was getting his Delta Android installation steps from...
 
 <img width="505" height="77" alt="image" src="https://github.com/user-attachments/assets/5f0dd6c5-340b-4d80-a1f2-1f036ccc8f00" />
+<br>
 
 Here is another Support recommending turning off Wi-Fi when he is on an iPad...
 
 <img width="536" height="429" alt="image" src="https://github.com/user-attachments/assets/3198c61f-a06c-4523-ab42-6f3ac73f231e" />
+<br>
+
+Here is a Support that said he wasn't an iOS support. That's fine...
+
+<img width="216" height="76" alt="image" src="https://github.com/user-attachments/assets/de2353ec-49ab-4d97-bf78-b2f1dbfcaa6c" />
+<br>
+
+But erm...
+
+<img width="298" height="164" alt="image" src="https://github.com/user-attachments/assets/7e76037d-c652-401f-bfb2-90e74888647a" />
+
 
 ## 4. Support Dictatorship, Bias and Impossible Promotions
 I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. Otherwise, we get warnings for rule 1 (being even a tiny bit disrespectful/impolite when most of the people talking are idiots).
