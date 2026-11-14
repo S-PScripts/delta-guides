@@ -200,8 +200,7 @@ oh I found this (yeah before you believe synx that I was a shitty support, as he
 
 30/10/2026: Synx got demoted for some reason. But I'm not angry... <!-- also saw a screenshot of him being racist in another server -->
 
-## the cocky clown, aka "synx"
-haha im so funny teasing:
+## "synx" being a bit irritating
 
 <img width="287" height="150" alt="image" src="https://github.com/user-attachments/assets/b7570316-1cf7-452c-b38d-11543b0f52ff" />
 <br>
@@ -214,7 +213,7 @@ haha im so funny teasing:
 
 <img width="421" height="104" alt="image" src="https://github.com/user-attachments/assets/00ca5f14-acf8-4173-a08e-1c1d7451d26e" />
 
-powertripping and openly showing how maturity:
+a bit mature...
 
 <img width="421" height="141" alt="image" src="https://github.com/user-attachments/assets/ca79861f-4ffd-486c-9d78-4db7f07b78df" />
 <br>
