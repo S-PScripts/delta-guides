@@ -250,6 +250,10 @@ And here's some comments from a mod:
 <br>
 <br>
 
+14/11/2026: Carlitos (senior mod) has been removed. Only coolaid and warxr remain. What the fuck is mlemix/concre.te doing?
+
+<img width="376" height="274" alt="image" src="https://github.com/user-attachments/assets/a01761cf-8b4d-4a54-8b40-3c0a053dab4e" />
+<br>
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
