@@ -109,6 +109,13 @@ But erm...
 
 <img width="298" height="164" alt="image" src="https://github.com/user-attachments/assets/7e76037d-c652-401f-bfb2-90e74888647a" />
 
+Here's some more proof the Staff Team is dying, user is still support despite being inactive for 3 weeks (no Leave Of Absence role either):
+
+<img width="281" height="123" alt="image" src="https://github.com/user-attachments/assets/abc67091-e07a-488f-8318-010341f3628c" />
+<br>
+
+<img width="281" height="141" alt="image" src="https://github.com/user-attachments/assets/ff3e5466-acd7-432c-839b-16557ca8452a" />
+<br>
 
 ## 4. Support Dictatorship, Bias and Impossible Promotions
 I find it funny that it is called the Delta "Community" server when it is more like the Delta "Support" server. Apparently, it is better for us to only help and do nothing else. Otherwise, we get warnings for rule 1 (being even a tiny bit disrespectful/impolite when most of the people talking are idiots).
