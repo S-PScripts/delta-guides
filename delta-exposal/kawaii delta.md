@@ -30,4 +30,8 @@ g
 g
 
 gg
-wow ts2021 you really are an idiot, you have terrible grammar and you act like a preschooler. this is why me and mlemix banned you from delta 
+wow ts2021 you really are an idiot, you have terrible grammar and you act like a preschooler. this is why me and mlemix banned you from delta
+
+^ nyxolz giving a truth nuke trust
+
+/j
