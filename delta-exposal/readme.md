@@ -55,7 +55,7 @@ Over time, I have also noticed that the Staff Team has been getting smaller, or 
 Let me show you the current (non-Trial) Support List and their contributions:
 - track33 (now banned)
   - 3 contributions to #solutions
-- carlitos (now senior moderator)
+- carlitos (now demoted)
   - 7 or so contributions (once I got demoted and deleted my solutions, he started adding them to replace them. Potentially inspired by mine, but at least they are original and not blatant C+V)
 - synx
   - 3 contributions to #solutions
@@ -64,7 +64,7 @@ Let me show you the current (non-Trial) Support List and their contributions:
 - ash
   - 3 contributions to #solutions (he also posted two of MY ones but carlitos deleted)
 - jay
-  - 1 contributions to #solution (it has contributions from me; he also had another one which was even more egregious but carlitos deleted that too after I told him)
+  - 1 contribution to #solution (it has contributions from me; he also had another one which was even more egregious but carlitos deleted that too after I told him)
  
  <img width="598" height="438" alt="image" src="https://github.com/user-attachments/assets/6d461528-e2fd-49c8-9e2b-7e0b670ed287" />
 
@@ -250,10 +250,12 @@ And here's some comments from a mod:
 <br>
 <br>
 
-14/11/2026: Carlitos (senior mod) has been removed. Only coolaid and warxr remain. What the fuck is mlemix/concre.te doing?
+14/11/2026: Carlitos (senior mod) has been removed. Only coolaid and warxr remain. What the fuck is mlemix/concre.te doing? He also can't see #solutions anymore.
 
 <img width="376" height="274" alt="image" src="https://github.com/user-attachments/assets/a01761cf-8b4d-4a54-8b40-3c0a053dab4e" />
 <br>
+
+I believe mlemix removed our access to stop us deleting our solutions (doesn't affect me and nyxolz that much, but definitely carlitos).
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
