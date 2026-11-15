@@ -167,11 +167,20 @@ Extra info from nyxolz:
 <img width="413" height="283" alt="Screenshot 2026-11-08 23 45 59" src="https://github.com/user-attachments/assets/69b2b6d1-f36b-4653-8c90-4b5c60df3527" />
 <img width="413" height="283" alt="image" src="https://github.com/user-attachments/assets/288c6970-62ba-4c30-9386-ae339fecf473" />
 
-10/11/2026: no permission to see messages, weird:
+10/11/2026: no permission to see messages:
 
 <img width="603" height="116" alt="image" src="https://github.com/user-attachments/assets/3a77b01b-2cdb-4e56-8dbf-c86ab1e31cf3" />
 
 We're also both missing (me and nyxolz' main account) from the Arcane leaderboard (our levels have been reset): https://arcane.bot/leaderboard/1279547031945220147
+
+14/11/2026:
+Carlitos got demoted (mentioned lower down), and he also can't see #solutions anymore. I believe mlemix removed our access to stop us deleting our solutions (doesn't affect me and nyxolz that much, but definitely carlitos).
+
+Not only this, there is now a new AI clanker that seems to ask stuff in #support-forums (it uses #solutions). This is just... stupid. And weird. Barely any other server does this except Madium to my knowledge.
+Screw mlemix for not letting us delete our shit that we wrote.
+
+Here is an example:
+<img width="446" height="640" alt="image" src="https://github.com/user-attachments/assets/ddbe3143-90b2-4002-bfc9-fcabc0ece41d" />
 
 ## 5. The Present Internal State - Role Change Mayhem
 Carlitos replaced Alan (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
@@ -250,12 +259,11 @@ And here's some comments from a mod:
 <br>
 <br>
 
-14/11/2026: Carlitos (senior mod) has been removed. Only coolaid and warxr remain. What the fuck is mlemix/concre.te doing? He also can't see #solutions anymore.
+14/11/2026: Carlitos (senior mod) has been removed. Only coolaid and warxr remain. What the fuck is mlemix/concre.te doing?
+
 
 <img width="376" height="274" alt="image" src="https://github.com/user-attachments/assets/a01761cf-8b4d-4a54-8b40-3c0a053dab4e" />
 <br>
-
-I believe mlemix removed our access to stop us deleting our solutions (doesn't affect me and nyxolz that much, but definitely carlitos).
 
 ## 6. Delta Detections
 The Delta team has never made any announcements regarding people getting banned for modified clients, especially if lots of people make them at once due to there being a 'banwave'. Was it Delta, was it not? They don't say. This has happened at least twice: May 14th 2026 and Oct 23rd 2026. August 3rd also had an incident, but that one probably wasn't related to Delta.
