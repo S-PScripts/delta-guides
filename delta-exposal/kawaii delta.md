@@ -21,3 +21,13 @@ kaede purging the channel after the announcement and bogie (delta admin) saying 
 
 
 since then #delta-c is gone
+
+
+
+g
+g
+g
+g
+
+gg
+wow ts2021 you really are an idiot, you have terrible grammar and you act like a preschooler. this is why me and mlemix banned you from delta 
