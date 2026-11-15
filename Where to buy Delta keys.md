@@ -8,10 +8,10 @@ Basically no one.
 ## Do they sell lifetime or monthly? 
 In the past, lifetime; recently, just monthly.
 
-## My lifetime key is not working
-Dm "notbogie", but try https://auth.platorelay.com/reset first (pin is 00000000 if you don't have one). For monthly keys, contact the seller, NOT US.
+## My lifetime/paid key is not working
+You will need to contract the re-seller, but try https://auth.platorelay.com/reset first (pin is 00000000 if you don't have one). Delta Staff CANNOT help you.
 
 ## Alternative?
 Buy Unlock-R or Linkvertise Premium.
 
-Delta Premium also bypasses Android remote attestation
+Delta Premium also bypasses Android remote attestation.
