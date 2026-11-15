@@ -11,3 +11,5 @@ READ https://github.com/S-PScripts/delta-guides/blob/main/Installing%20KSign%20(
 - Press Import From Files, then find the Delta IPA you downloaded and press it.
 - Once Delta appears, press it and press "Sign and Install". Then, press Start Signing
 - Wait for it to install. When prompted, press Install.
+
+READY: https://github.com/S-PScripts/delta-guides/blob/main/Ready%20signing%20stuck.md
