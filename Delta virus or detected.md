@@ -62,5 +62,6 @@ If you get banned, Roblox will NOT accept your appeals.
 - Please remember that despite our claims, we CANNOT guarantee it will always be undetected. It can still occasionally be.
 - If you get detected, delete your delta and reinstall it. Once you've done that, DO NOT use that account for at least 2 weeks (assuming it's a warn/1d/7d ban).
 
-- REGARDING BANWAVES: If you get banned, it was NOT from the latest version. It was an exploiting flag from an older version that was only applied later. The latest version of Delta is likely safe.
+- REGARDING BANWAVES: If you get banned, it was probably NOT from the latest version. It was an exploiting flag from an older version that was only applied later. The latest version of Delta is likely safe.
+- To actually test if the latest version is detected, make a new alt account and exploit on it. If it gets banned, that version is detected too.
 - Although most exploiting bans are given in ban waves, that doesn't mean it's always like that. When it's not in a ban wave, it is usually not because of Delta.
