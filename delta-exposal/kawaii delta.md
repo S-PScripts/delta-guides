@@ -19,19 +19,4 @@ kaede purging the channel after the announcement and bogie (delta admin) saying 
 <img width="400" alt="13294" src="https://github.com/user-attachments/assets/2d633537-6946-4228-b406-471c46b550c5" />
 <img width="400" alt="13296" src="https://github.com/user-attachments/assets/85d120d5-e826-487b-8c88-d5e49f275e7c" />
 
-
-since then #delta-c is gone
-
-
-
-g
-g
-g
-g
-
-gg
-wow ts2021 you really are an idiot, you have terrible grammar and you act like a preschooler. this is why me and mlemix banned you from delta
-
-^ nyxolz giving a truth nuke trust
-
-/j
+Although #delta-c was temporarily deleted for a week, it was reinstated 15th November.
