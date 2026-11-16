@@ -177,7 +177,7 @@ We're also both missing (me and nyxolz' main account) from the Arcane leaderboar
 Carlitos got demoted (mentioned lower down), and he also can't see #solutions anymore. I believe mlemix removed our access to stop us deleting our solutions (doesn't affect me and nyxolz that much, but definitely carlitos).
 
 Not only this, there is now a new AI clanker that seems to ask stuff in #support-forums (it uses #solutions). This is just... stupid. And weird. Barely any other server does this except Madium to my knowledge.
-Screw mlemix for not letting us delete our shit that we wrote.
+Screw mlemix for not letting us delete our shit that we wrote. (note: bogie runs the bot).
 
 Here is an example:
 <img width="446" height="640" alt="image" src="https://github.com/user-attachments/assets/ddbe3143-90b2-4002-bfc9-fcabc0ece41d" />
