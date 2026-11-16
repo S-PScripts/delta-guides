@@ -23,8 +23,10 @@ Roblox itself should hopefully not ban you. However, there have been a few ban w
 - You should not use unknown scripts. In uncommon situations, scripts could cause Roblox itself to flag you, not just the game. NOTE: Raknet desync can cause bans!
 - You should not exploit during Roblox events. Roblox has made anti-cheat updates during some of them before.
 - Do not use fflags (ones offered by tools like BloxStrap or VoidStrap).
-- Don't use auto-farming scripts/bots
-If you get banned, Roblox will NOT accept your appeals.
+- Try not to use auto-farming scripts/bots.
+- Try not to clone Delta/Roblox.
+
+**If you get banned, Roblox will NOT accept your appeals.**
 
 ## requested permissions:
 - android.permission.POST_NOTIFICATIONS
