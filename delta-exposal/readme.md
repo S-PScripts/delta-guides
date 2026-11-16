@@ -162,6 +162,7 @@ Extra info from nyxolz:
 <img width="768" height="655" alt="image" src="https://github.com/user-attachments/assets/038ba97e-81e4-46eb-9f23-638a04b82cf0" />
 <img width="296" height="640" alt="image" src="https://github.com/user-attachments/assets/aefce07a-6560-4699-bb74-f38451e22872" />
 
+### #solutions weirdness
 08/11/2026: For some reason me and nyxolz's alt account lost permission to #solutions...? (carlitos readded mine)
 
 <img width="413" height="283" alt="Screenshot 2026-11-08 23 45 59" src="https://github.com/user-attachments/assets/69b2b6d1-f36b-4653-8c90-4b5c60df3527" />
@@ -176,11 +177,29 @@ We're also both missing (me and nyxolz' main account) from the Arcane leaderboar
 14/11/2026:
 Carlitos got demoted (mentioned lower down), and he also can't see #solutions anymore. I believe mlemix removed our access to stop us deleting our solutions (doesn't affect me and nyxolz that much, but definitely carlitos).
 
-Not only this, there is now a new AI clanker that seems to ask stuff in #support-forums (it uses #solutions). This is just... stupid. And weird. Barely any other server does this except Madium to my knowledge.
-Screw mlemix for not letting us delete our shit that we wrote. (note: bogie runs the bot).
+Not only this, there is now a new AI clanker that seems to answer stuff in #support-forums and #general (it uses #solutions as its source). This is just... stupid. And weird. Barely any other server does this except Madium to my knowledge. Screw mlemix for not letting us delete our shit that we wrote. (note: bogie runs the bot).
 
 Here is an example:
+
 <img width="446" height="640" alt="image" src="https://github.com/user-attachments/assets/ddbe3143-90b2-4002-bfc9-fcabc0ece41d" />
+<br>
+
+Why add it?
+
+<img width="823" height="57" alt="image" src="https://github.com/user-attachments/assets/a4ffbd43-5531-4967-b03b-9afc6a321d81" />
+<br>
+
+I've also noticed that concre.te removed one of carlitos' solutions and resent it as his own.
+
+<img width="1046" height="383" alt="image" src="https://github.com/user-attachments/assets/4e92b86f-3de5-4fbb-91e3-7079c6a7a28f" />
+<br>
+
+Compare for yourself with one of carlitos' solutions, concre.te almost certainly didn't make the one above:
+
+<img width="543" height="223" alt="image" src="https://github.com/user-attachments/assets/151f13c1-d3b0-4be1-bdb2-b04031f6d094" />
+<br>
+
+If all of my solutions were in #solutions still, I do wonder how much better it could be.
 
 ## 5. The Present Internal State - Role Change Mayhem
 Carlitos replaced Alan (which is fine; he is actually passionate), and warxr was given senior mod. As for why him over coolaid, I do not know. He has sent even fewer messages than coolaid (but both aren't that active). However, I did find this interesting comment from coolaid... (track33 has been Support since like March 2026, by the way)
