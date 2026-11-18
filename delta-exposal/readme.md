@@ -226,9 +226,9 @@ oh I found this (yeah before you believe synx that I was a shitty support, as he
 
 26/10/2026: Carlitos is now a Senior Mod as Kyson left the server, and Synx was promoted to Moderator. Makes sense.
 
-30/10/2026: Synx got demoted for some reason. But I'm not angry... <!-- also saw a screenshot of him being racist in another server -->
+30/10/2026: Synx got demoted for some reason. <!-- also saw a screenshot of him being racist in another server but aren't we all -->
 
-## "synx" being a bit irritating
+## also "synx" being a bit irritating
 
 <img width="287" height="150" alt="image" src="https://github.com/user-attachments/assets/b7570316-1cf7-452c-b38d-11543b0f52ff" />
 <br>
