@@ -1,6 +1,6 @@
 * [Home](README.md)
 
-* **Delta Is Fucked**
+* **Delta Is Screwed**
   * [READ THIS](delta-exposal/readme.md)
 
 * **Installation & Setup**
@@ -10,6 +10,8 @@
   * [Using KSign (IPA)](Using%20KSign%20(IPA).md)
   * [Using ESign (IPA)](Using%20ESign%20(IPA).md)
   * [SideStore Tutorial (IPA)](SideStore%20Tutorial%20(IPA).md)
+  * [Sideloadly Tutorial (IPA)](Sideloadly%20Tutorial%20(IPA).md)
+  * [Impactor Tutorial (IPA)](Impactor%20Tutorial%20(IPA).md)
   * [Muacert Tutorial](Muacert%20Tutorial.md)
   * [PC Exploiting](PC%20exploiting.md)
 
