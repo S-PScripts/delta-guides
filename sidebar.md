@@ -1,5 +1,8 @@
 * [Home](README.md)
 
+* **Delta Is Fucked**
+  * [READ THIS](delta-exposal/readme.md)
+
 * **Installation & Setup**
   * [Delta Android Installation](Delta%20Android%20Installation.md)
   * [iOS Direct Install](iOS%20Direct%20Install.md)
