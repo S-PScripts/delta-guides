@@ -19,4 +19,5 @@ getgenv().sUNCDebug = {
     ["printtesttimetaken"] = false,
 }
 
-loadstring(game:HttpGet("https://script.sunc.su/"))()```
+loadstring(game:HttpGet("https://script.sunc.su/"))()
+```
