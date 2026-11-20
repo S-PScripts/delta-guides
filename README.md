@@ -4,3 +4,5 @@ These are the guides/solutions I created for the Delta Community Discord server 
 Delta has lots of problems. Go to the Delta Exposal section to see information on that.
 
 **To view Delta Status, press [this](https://delta-status.vercel.app/old.html).**
+
+## Check out [deltasupport.lol](https://www.deltasupport.lol/)!
